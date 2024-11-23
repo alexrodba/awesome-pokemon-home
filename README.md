@@ -1,6 +1,6 @@
 # Awesome Pokémon HOME [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources, guides, tools, and communities for Pokémon HOME users.
+> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update daily.
 
 ## Contents
 
@@ -14,7 +14,15 @@
 
 ## How to use this guide
 
-To Do
+I am writing this guide as a braindump of all I know about Pokémon Home. You will find useful information like how to complete the Pokédex for each games, how to build living dexes, how to trade efficiently, do's and don'ts and amusing information like a section of Pokémon with fun names I've come across.
+
+I have divided this guide in the following subsections, and then you'll find other sections with useful resources at the end of it.
+
+- [Completing the Main Pokédex](sections/main-pokedex.md)
+- [Completing Game-Specific Pokédexes](sections/game-pokedex.md)
+- [Box Organization](sections/boxes.md)
+- [Trading](sections/trading.md)
+- [Challenges](sections/challenges.md)
 
 ## Official resources
 
