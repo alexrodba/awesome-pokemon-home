@@ -5,6 +5,11 @@
 ## Contents
 
 - [How to use this guide](#guide-explainer)
+  - [Completing the Main Pokédex](sections/main-pokedex.md)
+  - [Completing Game-Specific Pokédexes](sections/game-pokedex.md)
+  - [Box Organization](sections/boxes.md)
+  - [Trading](sections/trading.md)
+  - [Challenges](sections/challenges.md) 
 - [Official resources](#official-resources)
 - [The basics](#the-basics)
 - [Tools and utilities](#tools-and-utilities)
