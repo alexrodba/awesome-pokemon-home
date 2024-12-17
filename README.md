@@ -24,7 +24,7 @@ I am writing this guide as a braindump of all I know about Pokémon Home. You wi
 I have divided this guide in the following subsections, and then you'll find other sections with useful resources at the end of it.
 
 - [Completing the Main Pokédex](sections/main-pokedex.md)
-- [Completing Game-Specific Pokédexes](sections/game-pokedex.md)
+- [Completing Game-Specific Pokédexes](sections/games.md)
 - [Box Organization](sections/boxes.md)
 - [Trading](sections/trading.md)
 - [Challenges](sections/challenges.md)
