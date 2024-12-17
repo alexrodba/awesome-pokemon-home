@@ -6,7 +6,7 @@
 
 - [How to use this guide](#guide-explainer)
   - [Completing the Main Pokédex](sections/main-pokedex.md)
-  - [Completing Game-Specific Pokédexes](sections/game-pokedex.md)
+  - [Completing Game-Specific Pokédexes](sections/games.md)
   - [Box Organization](sections/boxes.md)
   - [Trading](sections/trading.md)
   - [Challenges](sections/challenges.md) 
