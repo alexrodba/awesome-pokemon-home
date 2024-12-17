@@ -6,12 +6,17 @@ The first big challenge is to complete the main Pokédex. This means, to registe
 
 Let's open the Pokédex functionality of our Pokémon Home app:
 
-![Untitled-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6ada4afb-dd49-4753-92c0-19bb2d058505)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f4422b3-c1a0-4181-8cec-3cb8e30039a1" alt="Pokédex">
+</p>
+
 
 We will focus on the _National_ section for now. _National_ refers to the concept of National Pokédex, an extensive catalog within the Pokémon franchise that encompasses all Pokémon species known to exist across various games and generations. This Pokédex serves as a comprehensive reference, allowing players to track and record Pokémon beyond those native to a specific region. In short, this is _the_ list.
 
 The main goal is to have this:
-![image](https://github.com/user-attachments/assets/5d10db41-a51f-46ae-874a-e948184bfa05)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1f149f4-d061-47de-ab61-5ac4c8ff24ed" alt="Pokédex filters">
+</p>
 
 # Why?
 
