@@ -90,7 +90,17 @@ wtf, indeed, but I'm not gonna complain 🙏🏻
 
 # Wonder box
 
-sss
+Wonder box is one hell of a fun way to get a few new 'mons for free, trading them for a few of your own.
+
+Players can deposit Pokémon into the Wonder Box, with limits based on their subscription plan—up to 3 Pokémon for free users and up to 10 for those with a Premium Plan.
+
+The Wonder Box trades happen every X hours but this amount of time remains undocumented. First reports, when it first came out, indicated trades every 24 hours. However, I do get multiple times a day. I wouldn't say every hour, but definitely every 2-3 hours.
+
+I always make use of the Wonder Box. I check the 10 'mons and send them back if they're of no use, and retain the rarer 'mons and occasional shinies and/or legendaries, if I'm lucky.
+
+If you receive shinies and legendaries (rare, but it does occur), this is because someone decided to send them altruistically. That doesn't mean you _have to_ do it, but you _ought to_ do it to have it happen more frequently.
+
+How to decide which ones to keep vs. which ones to trade? Check the ... TBD
 
 # Room trade
 
