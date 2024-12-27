@@ -15,7 +15,7 @@ We will focus on the _National_ section for now. _National_ refers to the concep
 
 The main goal is to have this:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1f149f4-d061-47de-ab61-5ac4c8ff24ed" alt="Pokédex filters">
+  <img width="600" src="https://github.com/user-attachments/assets/f1f149f4-d061-47de-ab61-5ac4c8ff24ed" alt="Pokédex filters">
 </p>
 
 # Why?
@@ -57,7 +57,7 @@ To complete the National Pokédex on Pokémon HOME, you need the following minim
 
 * Pokémon Scarlet and Pokémon Violet (including their DLCs: Isle of Armor, Crown Tundra, Teal Mask, and Indigo Disk).
 * Pokémon Legends: Arceus.
-* Pokémon Sword or Shield4.
+* Pokémon Sword or Shield.
 * Pokémon Brilliant Diamond or Shining Pearl.
 * Pokémon Let's Go Pikachu or Let's Go Eevee.
 
