@@ -4,8 +4,9 @@ I am trying my best to write the holy grail of Pokémon Home trading, which is _
 
 In Pokémon Home there are four methods of trading. I only find two of them useful, so I will focus on the first two and barely cover the other two.
 
-![image](https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df)
-
+<p align="center">
+    <img width="600px" src="https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
 
 In order of importance, for me:
 
@@ -14,6 +15,7 @@ In order of importance, for me:
 - [Room trade](#room-trade)
 - [Friend trade](#friend-trade)
 
+<a name='gts'></a>
 # Global Trading System (GTS)
 
 This is, by order of importance, the number one feature of this app I use the most.
@@ -29,7 +31,10 @@ Let's cover all three!
 ## Parking Pokémon
 
 You have to always have these slots filled, otherwise you're wasting your time. At the time of writing, I have the following 'mons there:
-![image](https://github.com/user-attachments/assets/9615c210-b974-4c8a-b905-bee93c83c300)
+
+<p align="center">
+    <img width="600px" src="https://github.com/user-attachments/assets/9615c210-b974-4c8a-b905-bee93c83c300" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
 
 When you "park" a Pokémon in this section, you have to specify what do you want to trade it for. Once someone meets your request, it'll trade the creatures automatically. You can take it back at any time.
 
@@ -78,16 +83,27 @@ There are a few exceptions to this rule, which can be boiled down to these:
 
 For instance, my Kakuna from Let's Go Pikachu was traded for a Lugia, for no reason whatsoever:
 
-![IMG_3470](https://github.com/user-attachments/assets/ba479fd0-70de-4808-b039-966e50b49dc3)
-![IMG_3471](https://github.com/user-attachments/assets/319d3221-4b0b-4a31-bbe5-e11f058826e9)
+<p align="center">
+    <img width="600px" src="https://github.com/user-attachments/assets/ba479fd0-70de-4808-b039-966e50b49dc3" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
+
+<p align="center">
+    <img width="600px" src="[https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df](https://github.com/user-attachments/assets/319d3221-4b0b-4a31-bbe5-e11f058826e9)" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
 
 My Caterpie from Let's Go Pikachu came with an even better trade:
-![IMG_3108](https://github.com/user-attachments/assets/a09f201e-6b86-46d2-85b6-45e78a4183da)
-![IMG_3109](https://github.com/user-attachments/assets/99ab896b-2c82-4251-85de-425a19a0b2a4)
+
+<p align="center">
+    <img width="600px" src="https://github.com/user-attachments/assets/a09f201e-6b86-46d2-85b6-45e78a4183da" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
+
+<p align="center">
+    <img width="600px" src="https://github.com/user-attachments/assets/99ab896b-2c82-4251-85de-425a19a0b2a4" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
 
 wtf, indeed, but I'm not gonna complain 🙏🏻
 
-
+<a name='wonder-box'></a>
 # Wonder box
 
 Wonder box is one hell of a fun way to get a few new 'mons for free, trading them for a few of your own.
@@ -102,6 +118,7 @@ If you receive shinies and legendaries (rare, but it does occur), this is becaus
 
 How to decide which ones to keep vs. which ones to trade? Check the ... TBD
 
+<a name='room-trade'></a>
 # Room trade
 
 Room trade was perhaps a good idea back in the day but it's pretty unusable. The concept is simple, either join or create rooms of 20 people and trade one 'mon at a time. My experience has been pretty poor with this: I either landed in rooms with terrible 'mons being exchanged or the room was somehow cancelled and failed. I have also tried creating my own rooms and I've never gotten anyone to join, ever.
@@ -110,6 +127,7 @@ Users with a free Basic Plan can join existing trade rooms, while those with a P
 
 My guess is that this functionality makes sense if you're in a Discord channel with sufficient people to join your open call via code or QR code. Useless otherwise.
 
+<a name='friend-trade'></a>
 # Friend trade
 
 Another useless feature unless you happen to have friends in this particular app. I have not used it at all.
