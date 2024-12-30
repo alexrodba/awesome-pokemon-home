@@ -65,7 +65,11 @@ It'd be too much work to create a classification of these tiers of Pokémon, not
 
 ## Search
 
-TBD
+Searching is my least favourite option of the three I use (Wonder box, GTS, offer/search). If you use the search option, you're always going to pay a premium.
+
+It's a basic economy concept: you're looking for something you don't have, so people on the other end will assume that they can ask a higher price for it.
+
+I only do it in very specific cases where I really need that one 'mon (a specific form of Alcremie, for instance) or things that are very expensive anyways (shiny legendaries). But if you're after a Kabuto from Galar, don't use search because people will be asking for a Bloodmoon Ursaluna, Raging Bolt of Galarian Zapdos in return. Nonsense.
 
 ## Offer
 
