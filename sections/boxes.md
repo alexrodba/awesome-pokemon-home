@@ -20,10 +20,10 @@ Lastly, in box set 7, I store a few extra things I want to keep around, like Eve
 
 Summary:
 
-* Box set 1: Inbox. Use it to transfer stuff into Home and empty them periodically.
-* Box set 2: Living dex, from #1 (Bulbasaur) to #761 (TBC).
-* Box set 3: Living dex, up to #1025 (Pecharunt).
-* Box set 4: Tradeable 'mons.
-* Box set 5: Living shiny dex, from #1 (Bulbasaur) to #761 (TBC).
-* Box set 6: Living dex, up to #1025 (Pecharunt).
-* Box set 7: Want-to-keep 'mons (event, pokérus, level 100, etc).
+* **Box set 1:** Inbox. Use it to transfer stuff into Home and empty them periodically.
+* **Box set 2:** Living dex, from #1 (Bulbasaur) to #761 (TBC).
+* **Box set 3:** Living dex, up to #1025 (Pecharunt).
+* **Box set 4:** Tradeable 'mons.
+* **Box set 5:** Living shiny dex, from #1 (Bulbasaur) to #761 (TBC).
+* **Box set 6:** Living dex, up to #1025 (Pecharunt).
+* **Box set 7:** Want-to-keep 'mons (event, pokérus, level 100, etc).
