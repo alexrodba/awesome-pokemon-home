@@ -16,6 +16,7 @@ In order of importance, for me:
 - [Friend trade](#friend-trade)
 - [Best strategy: Go-go-golden boi](#strategy) 
 - [Bonus: Crazy trades](#crazy-trades)
+- [Bonus: Naming](#naming)
 
 <a name='gts'></a>
 # Global Trading System (GTS)
@@ -161,6 +162,103 @@ How do you get so many Gholdengos?
 
 If you can't get Gholdengos, try going one level below: Try asking for a Dialga or a Gorebyss/Huntail. Then exchange those for a Gholdengo.
 
+For instance, these three pokémon...
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/0d497b2f-65a2-4206-bf79-e09046df6a51" alt="Pokémon Home">
+</p>
+
+... turned into three Gholdengos:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/15038c51-a49c-4cb8-bf79-3c8271aeb3f4" alt="Pokémon Home">
+</p>
+
+<a name='naming'></a>
+# Bonus: Naming
+
+Generally speaking, a pokémon with a nickname will be of less value because you're not able to rename pokémon whose original trainer (OT) isn't you.
+
+Therefore, I know you wanted to name your Galarian Moltres "Jessica", Brandon, but then you won't be able to trade it for anything of value. You're spoiling it for everyone. Same with Jeremiah, who named his Charizard "Mr Bombastic":
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/d7d392cc-d524-435f-bd2c-a254b3591529" alt="Pokémon Home trade">
+</p>
+
+Likewise, it is immensely frustrating when you are close to completing the shiny pokédex and the only one missing has got a stupid nickname and you have to take it. It ruins your collection.
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/3423863b-52f8-484b-a2d9-6d786c93c185" alt="Pokémon Home">
+</p>
+Appreciate your sharing love, not hate, but who really wants a shiny with this name?
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/1bcd2ef0-d37f-4a34-aa27-4403eed722d6" alt="Pokémon Home">
+</p>
+OK - I made an exception for this one. 
+
+In my case, I did accept nicknamed pokémon just to get the collection complete in the first pass. Now, I'm doing a second pass where I am getting some shinies again with normal names (without nicknames, mostly) so I can get rid of 'mons with urls as names, emojis and other useless stuff.
+
+For instance, I have made _several_ exceptions to get all of the 40592 Alcremie forms:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/ea563abc-ba6c-419e-a59f-c1bfa8e77d5a" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/6544a057-f3dd-4af0-b6ba-2a34368e3367" alt="Pokémon Home trade">
+</p>
+
+I know that technically you only need one instance of Alcremie for every topping, when building the shiny dex, but I actually wanted to have all of them with all of the combinations. I am _that_ hardcore.
+
+
+Some others raise an eyebrow so I screenshotted them for posterity but ffs people you sick fucks:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/6756effb-3211-4374-9f2f-22a2230d0dc6" alt="Pokémon Home">
+</p>
+
+Why:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/35d31f2f-7c3c-4c4d-b999-d393ea79a06a" alt="Pokémon Home">
+</p>
+
+Curry? Cronos?
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/e6253dde-2c2f-4d31-bff1-d389b5c5fd0e" alt="Pokémon Home">
+</p>
+
+
+Worst of all, I also wanted to speak up against idiots who use this game to spread hate and fascism. If you encounter anything like this, make a note of the trainer's name and report to Nintendo.
+
+For instance, hate against other countries. That's German for "Turkey sucks":
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/1fd3f396-f184-4a06-844c-88bd34cf2ca8" alt="Pokémon Home">
+</p>
+
+Mom! Look! A level 100 MORON!
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/188c3c3d-4838-448c-97d8-c7ed13b260b4" alt="Pokémon Home">
+</p>
+
+WHY
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/66d8d32a-0af8-47f3-b07c-1594ee26ea47" alt="Pokémon Home">
+</p>
+
+Sure, that's the best use for a pokémon nickname:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/9edb13c0-d5bd-49a9-959d-ecef2ca3efd0" alt="Pokémon Home trade">
+</p>
+
+
+
+
 <a name='crazy-trades'></a>
 # Bonus: Crazy trades
 
@@ -169,5 +267,42 @@ Every few days, I get a widly crazy trade out of nowhere, like the ones I posted
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/e3ca13fe-1949-40a5-acac-9651d3a609ab" alt="Pokémon Home trade">
 </p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/7fbd9f83-1691-4e38-a285-9089cca83589" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/a88c780d-cf1d-4c59-b219-cb46600fbb3c" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/41cac5af-a56f-4e60-8588-1393de8648da9" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/127cbbb7-753d-452b-a22b-95ffab85334f" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/25720763-96df-472e-9dd8-d74166ca2506" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/8b9a2284-5a6a-45b6-a137-ceaa6dc235cb" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/d8f4a5a7-679c-4f75-b66b-f181c909fa96" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/96f3f064-3afb-4bed-92d1-f24da0a0bcc7" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/04209f34-30a1-457b-9caa-d101192f9010" alt="Pokémon Home trade">
+</p>
+
 
 
