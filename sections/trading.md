@@ -5,7 +5,7 @@ I am trying my best to write the holy grail of Pokémon Home trading, which is _
 In Pokémon Home there are four methods of trading. I only find two of them useful, so I will focus on the first two and barely cover the other two.
 
 <p align="center">
-    <img width="600px" src="https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 In order of importance, for me:
@@ -33,7 +33,7 @@ Let's cover all three!
 You have to always have these slots filled, otherwise you're wasting your time. At the time of writing, I have the following 'mons there:
 
 <p align="center">
-    <img width="600px" src="https://github.com/user-attachments/assets/9615c210-b974-4c8a-b905-bee93c83c300" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="https://github.com/user-attachments/assets/9615c210-b974-4c8a-b905-bee93c83c300" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 When you "park" a Pokémon in this section, you have to specify what do you want to trade it for. Once someone meets your request, it'll trade the creatures automatically. You can take it back at any time.
@@ -88,21 +88,21 @@ There are a few exceptions to this rule, which can be boiled down to these:
 For instance, my Kakuna from Let's Go Pikachu was traded for a Lugia, for no reason whatsoever:
 
 <p align="center">
-    <img width="600px" src="https://github.com/user-attachments/assets/ba479fd0-70de-4808-b039-966e50b49dc3" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="https://github.com/user-attachments/assets/ba479fd0-70de-4808-b039-966e50b49dc3" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 <p align="center">
-    <img width="600px" src="[https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df](https://github.com/user-attachments/assets/319d3221-4b0b-4a31-bbe5-e11f058826e9)" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="[https://github.com/user-attachments/assets/34b63f4f-e070-4613-8fd2-63b8ba2020df](https://github.com/user-attachments/assets/319d3221-4b0b-4a31-bbe5-e11f058826e9)" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 My Caterpie from Let's Go Pikachu came with an even better trade:
 
 <p align="center">
-    <img width="600px" src="https://github.com/user-attachments/assets/a09f201e-6b86-46d2-85b6-45e78a4183da" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="https://github.com/user-attachments/assets/a09f201e-6b86-46d2-85b6-45e78a4183da" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 <p align="center">
-    <img width="600px" src="https://github.com/user-attachments/assets/99ab896b-2c82-4251-85de-425a19a0b2a4" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="https://github.com/user-attachments/assets/99ab896b-2c82-4251-85de-425a19a0b2a4" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 wtf, indeed, but I'm not gonna complain 🙏🏻
@@ -120,7 +120,7 @@ I always make use of the Wonder Box. I check the 10 'mons and send them back if 
 
 If you receive shinies and legendaries (rare, but it does occur), this is because someone decided to send them altruistically. That doesn't mean you _have to_ do it, but you _ought to_ do it to have it happen more frequently.
 
-How to decide which ones to keep vs. which ones to trade? Check the ... TBD
+How to decide which ones to keep vs. which ones to trade? I'm creating a guide in Google Sheets that you will be able to download soon.
 
 <a name='room-trade'></a>
 # Room trade
