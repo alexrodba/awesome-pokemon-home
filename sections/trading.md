@@ -14,6 +14,7 @@ In order of importance, for me:
 - [Wonder Box](#wonder-box)
 - [Room trade](#room-trade)
 - [Friend trade](#friend-trade)
+- [Bonus: Crazy trades](#crazy-trades)
 
 <a name='gts'></a>
 # Global Trading System (GTS)
@@ -135,3 +136,14 @@ My guess is that this functionality makes sense if you're in a Discord channel w
 # Friend trade
 
 Another useless feature unless you happen to have friends in this particular app. I have not used it at all.
+
+<a name='crazy-trades'></a>
+# Bonus: Crazy trades
+
+Every few days, I get a widly crazy trade out of nowhere, like the ones I posted above, so I have captured a few of them for your amusement. Needless to say, I also pay back when it's due when I have excess shinies and legendaries from Pokémon Go!
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/e3ca13fe-1949-40a5-acac-9651d3a609ab" alt="Pokémon Home trade">
+</p>
+
+
