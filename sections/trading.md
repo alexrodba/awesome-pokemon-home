@@ -14,6 +14,7 @@ In order of importance, for me:
 - [Wonder Box](#wonder-box)
 - [Room trade](#room-trade)
 - [Friend trade](#friend-trade)
+- [Best strategy: Go-go-golden boi](#strategy) 
 - [Bonus: Crazy trades](#crazy-trades)
 
 <a name='gts'></a>
@@ -43,7 +44,7 @@ I suggest leaving them a maximum of 24 hours. Longer than that, your request get
 
 Also, it's very likely that if a 'mon hasn't been traded in 24h using this method, it's because you're asking for an unfair trade.
 
-For instance, you want to get a Cranidos because there's a [challenge](sections/challenges.md) that requires exchanging one for a Shieldon. You have to park your Shieldon and ask for a Cranidos in exchange. Easy peasy. Most likely, this trade will complate within minutes, if not seconds.
+For instance, you want to get a Cranidos because there's a [challenge](sections/challenges.md) that requires exchanging one for a Shieldon. You have to park your Shieldon and ask for a Cranidos in exchange. Easy peasy. Most likely, this trade will complete within minutes, if not seconds.
 
 On the other end of the likelihood spectrum, you place a Caterpie and you want to get a Calyrex in exchange. In everyone's eyes, this is an unfair trade, so no one is going to take it and your Caterpie will stay there forever.
 
@@ -136,6 +137,29 @@ My guess is that this functionality makes sense if you're in a Discord channel w
 # Friend trade
 
 Another useless feature unless you happen to have friends in this particular app. I have not used it at all.
+
+<a name='strategy'></a>
+# Best strategy: Go-go-golden boi
+
+Alright, let me share my strategy to maximise my pokémon portfolio.
+
+The holy grail of getting 80% of the shinies in the game is to look for the golden boy: Gholdengo.
+
+This is my current roster of Gholdengos:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/da854e01-1ffe-4716-ad9b-50af66aa8394" alt="Pokémon Home">
+</p>
+
+Gholdengo trades pretty well. It will get you most shiny forms in the game except of shiny legendaries and some extra rare ones like shiny Gorebyss and stuff like that.
+
+How do you get so many Gholdengos?
+
+* Virtually any legendary can be traded for one.
+* Virtually any shiny can be traded for one.
+* Some very rare pokémon will trade for Gholdengos, like Hisuian Typhlosion, Gorebyss/Huntail, Alcremies and a few more.
+
+If you can't get Gholdengos, try going one level below: Try asking for a Dialga or a Gorebyss/Huntail. Then exchange those for a Gholdengo.
 
 <a name='crazy-trades'></a>
 # Bonus: Crazy trades
