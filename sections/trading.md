@@ -160,6 +160,11 @@ How do you get so many Gholdengos?
 * Virtually any shiny can be traded for one.
 * Some very rare pokémon will trade for Gholdengos, like Hisuian Typhlosion, Gorebyss/Huntail, Alcremies and a few more.
 
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/f1ba1784-79ad-49e7-bbe9-34a49eecfad1" alt="Pokémon Home">
+</p>
+
+
 If you can't get Gholdengos, try going one level below: Try asking for a Dialga or a Gorebyss/Huntail. Then exchange those for a Gholdengo.
 
 For instance, these three pokémon...
@@ -230,6 +235,46 @@ Curry? Cronos?
   <img width="300px" src="https://github.com/user-attachments/assets/e6253dde-2c2f-4d31-bff1-d389b5c5fd0e" alt="Pokémon Home">
 </p>
 
+Merry Xmas to you too:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/5de60947-620b-4396-8976-6911259bd1ae" alt="Pokémon Home">
+</p>
+
+Sure, that's the best use for a pokémon nickname:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/9edb13c0-d5bd-49a9-959d-ecef2ca3efd0" alt="Pokémon Home trade">
+</p>
+
+Never take financial advice from Pokémon players:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/fc486350-0d85-4456-91e4-feaa53c2f671" alt="Pokémon Home trade">
+</p>
+
+Someone doesn't like Dratini:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/03885df9-a355-41e9-a361-70d3d6eb6262" alt="Pokémon Home trade">
+</p>
+
+VRRRROOOOOOOMMMMMM:
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/d930d566-0abd-436b-923b-e25d31c25b8a" alt="Pokémon Home trade">
+</p>
+
+Keep politics out of our games, please:
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/72ff7e3e-54da-4943-a279-7715ce5eab75" alt="Pokémon Home trade">
+</p>
+
+🫶
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/1b1e80e0-3b61-4c53-8d66-cbcaea1056eb" alt="Pokémon Home trade">
+</p>
+
 
 Worst of all, I also wanted to speak up against idiots who use this game to spread hate and fascism. If you encounter anything like this, make a note of the trainer's name and report to Nintendo.
 
@@ -250,11 +295,16 @@ WHY
   <img width="300px" src="https://github.com/user-attachments/assets/66d8d32a-0af8-47f3-b07c-1594ee26ea47" alt="Pokémon Home">
 </p>
 
-Sure, that's the best use for a pokémon nickname:
+
+
+Worst human being ever:
 
 <p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/9edb13c0-d5bd-49a9-959d-ecef2ca3efd0" alt="Pokémon Home trade">
+  <img width="300px" src="https://github.com/user-attachments/assets/cdab2a2e-01de-4d64-aed6-62368fae574d" alt="Pokémon Home trade">
 </p>
+
+Seriously, I hope more people report them so they can have their accounts shut down.
+
 
 
 
@@ -302,6 +352,38 @@ Every few days, I get a widly crazy trade out of nowhere, like the ones I posted
 
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/04209f34-30a1-457b-9caa-d101192f9010" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/0ad1427a-0f19-4b50-a821-9c10c77a24e8" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/7c8803c3-f612-4d07-9c10-3097b6197231" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/79df9af4-9def-441c-8bc6-6c29cf74319b" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/1c79cd95-5842-4670-9c33-8185e640a919" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/74c899a1-11e4-4686-9ee0-ca27e79c69a5" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/b651846a-e48c-4294-a474-5ecc57fa899e" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/8c288a6d-dfa7-4082-b469-94fe2110d125" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/18927e8d-6d65-4e82-b326-a3cb9a008e93" alt="Pokémon Home trade">
 </p>
 
 
