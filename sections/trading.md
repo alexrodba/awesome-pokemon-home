@@ -386,5 +386,7 @@ Every few days, I get a widly crazy trade out of nowhere, like the ones I posted
   <img width="300px" src="https://github.com/user-attachments/assets/18927e8d-6d65-4e82-b326-a3cb9a008e93" alt="Pokémon Home trade">
 </p>
 
-
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/5dc85151-0107-4e4a-ad4a-ce6862aa792f" alt="Pokémon Home trade">
+</p>
 
