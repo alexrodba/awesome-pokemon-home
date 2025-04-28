@@ -74,6 +74,13 @@ It's a basic economy concept: you're looking for something you don't have, so pe
 
 I only do it in very specific cases where I really need that one 'mon (a specific form of Alcremie, for instance) or things that are very expensive anyways (shiny legendaries). But if you're after a Kabuto from Galar, don't use search because people will be asking for a Bloodmoon Ursaluna, Raging Bolt of Galarian Zapdos in return. Nonsense.
 
+Some other times, though, you are rewarded:
+
+<p align="center">
+    <img width="400px" src="https://github.com/user-attachments/assets/0a36e97c-1ca8-45ca-828a-2661e1df5510" style="display: block; margin: auto;" alt="Pokémon Home">
+</p>
+
+
 ## Offer
 
 Select one of your 'mons and see what people will trade it for. Don't use this feature to offer shinies because the app doesn't support this, so a regular Diglett and a shiny one will yield the same results.
