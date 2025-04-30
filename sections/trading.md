@@ -248,6 +248,10 @@ Merry Xmas to you too:
   <img width="300px" src="https://github.com/user-attachments/assets/5de60947-620b-4396-8976-6911259bd1ae" alt="Pokémon Home">
 </p>
 
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/cda0e533-2d06-4006-8cd6-251ad77bb43" alt="Pokémon Home trade">
+</p>
+
 Sure, that's the best use for a pokémon nickname:
 
 <p align="center">
@@ -395,5 +399,17 @@ Every few days, I get a widly crazy trade out of nowhere, like the ones I posted
 
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/5dc85151-0107-4e4a-ad4a-ce6862aa792f" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/36c81663-c6dc-4325-b8de-b21203f7a134" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/059ea696-2823-4b06-8794-a88efe3393b8" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/f56c66ff-d852-4df3-bd28-ab285c5e4f08" alt="Pokémon Home trade">
 </p>
 
