@@ -1,6 +1,6 @@
 # Awesome Pokémon HOME [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update daily.
+> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update randomly.
 
 ## Contents
 
