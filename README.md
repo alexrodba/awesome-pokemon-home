@@ -49,10 +49,6 @@ I have divided this guide in the following subsections, and then you'll find oth
 
 - [r/PokemonHome](https://www.reddit.com/r/PokemonHome/) - Subreddit dedicated to Pokémon HOME discussions.
 
-## Contributing
-
-Contributions are welcome! Open a PR over here and let's do it!
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
