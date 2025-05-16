@@ -51,7 +51,7 @@ I have divided this guide in the following subsections, and then you'll find oth
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Open a PR over here and let's do it!
 
 ## License
 
