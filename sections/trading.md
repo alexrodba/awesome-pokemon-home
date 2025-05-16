@@ -161,6 +161,18 @@ This is my current roster of Gholdengos:
 
 Gholdengo trades pretty well. It will get you most shiny forms in the game except of shiny legendaries and some extra rare ones like shiny Gorebyss and stuff like that.
 
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/1d5147ee-6f6b-4b45-ad42-38b87891b9e9" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/c3ee582b-2b28-4efa-9490-645a58cf50eb" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/b42deb1c-1975-4e47-b99f-ed620d443bba" alt="Pokémon Home trade">
+</p>
+
 How do you get so many Gholdengos?
 
 * Virtually any legendary can be traded for one.
@@ -246,10 +258,6 @@ Merry Xmas to you too:
 
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/5de60947-620b-4396-8976-6911259bd1ae" alt="Pokémon Home">
-</p>
-
-<p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/cda0e533-2d06-4006-8cd6-251ad77bb43" alt="Pokémon Home trade">
 </p>
 
 Sure, that's the best use for a pokémon nickname:
@@ -411,5 +419,17 @@ Every few days, I get a widly crazy trade out of nowhere, like the ones I posted
 
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/f56c66ff-d852-4df3-bd28-ab285c5e4f08" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/627caf14-d970-4eb4-961c-1c3ee77dda45" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/431c5674-f56d-428f-8841-80f619f71957" alt="Pokémon Home trade">
+</p>
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/a21a37bf-7f8d-4ab2-a648-17aa38e687e1" alt="Pokémon Home trade">
 </p>
 
