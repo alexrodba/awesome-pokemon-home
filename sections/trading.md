@@ -283,7 +283,7 @@ VRRRROOOOOOOMMMMMM:
   <img width="300px" src="https://github.com/user-attachments/assets/d930d566-0abd-436b-923b-e25d31c25b8a" alt="Pokémon Home trade">
 </p>
 
-Keep politics out of our games, please:
+Politics, because why not:
 
 <p align="center">
   <img width="300px" src="https://github.com/user-attachments/assets/72ff7e3e-54da-4943-a279-7715ce5eab75" alt="Pokémon Home trade">
