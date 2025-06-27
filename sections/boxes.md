@@ -18,7 +18,7 @@ In box sets 5 and 6, I placed my living shiny dex.
 
 Lastly, in box set 7, I store a few extra things I want to keep around, like Event Pokémon, 'mons that can't be traded, those I want to power up shortly, and cool shinies or lvl100s I want to keep, and a few ones with Pokérus (because while in Pokémon Home, the virus doesn't go away).
 
-Summary:
+## Summary
 
 * **Box set 1:** Inbox. Use it to transfer stuff into Home and empty them periodically.
 * **Box set 2:** Living dex, from #1 (Bulbasaur) to #761 (TBC).
@@ -27,3 +27,7 @@ Summary:
 * **Box set 5:** Living shiny dex, from #1 (Bulbasaur) to #761 (TBC).
 * **Box set 6:** Living dex, up to #1025 (Pecharunt).
 * **Box set 7:** Want-to-keep 'mons (event, pokérus, level 100, etc).
+
+## Bonus
+
+I'm thinking of recording a series of videos showing how I've organised my boxes. Would that be interesting to you? If so, reach out to me on [Twitter](http://twitter.com/lexrodba) or [LinkedIn](http://www.linkedin.com/in/alexrodba) and let me know, so I can put my ass to work!
