@@ -4,7 +4,7 @@
   <img width="300px" src="https://github.com/user-attachments/assets/28d15842-94d2-4e10-ae72-6e9f9b9ba7d5" alt="Awesome Pokémon Home logo">
 </p>
 
-> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update randomly.
+> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update randomly by [@lexrodba](http://twitter.com/lexrodba).
 
 ## Contents
 
