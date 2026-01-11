@@ -84,7 +84,7 @@ Some 'mons haven't been released, specially those from the latest generations (P
 
 - Spinda can't be transferred from Go into Home.
 - Some regionals might be hard to catch (I won't travel to the other side of the world to get a Pachirisu nor a Relicanth, I'm sorry), but I could get them via GTS (it's just extremely unlikely).
-- Some are event-specific, like Gogoat. I didn't pay for that event, so I don't have it. Also, I could get it via GTS.
+- Some are event-specific, like Rotom or Shiny Diancie.
 
 The list above isn't exhaustive by any means.
 
