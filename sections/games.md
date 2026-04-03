@@ -76,9 +76,53 @@ In order to get Alakazam, Gengar, Machamp and Golem, I had to get their stage 1 
 
 Outside of that, nothing really difficult, but some 'mons take ages to appear, so stock up on Repels and Lures to get that pesky Clefable.
 
+## Lumiose - Pokemon Legends: Z-A
+
+HOME compatibility for Z-A arrived with the version 4.0.0 update on April 2, 2026, but
+it works differently from every other supported game — read the caveats carefully before
+transferring anything.
+
+**What you can do:**
+
+- Transfer Pokemon from your Z-A team into HOME.
+- Bring select Pokemon from past titles into Lumiose City via HOME.
+- Send Z-A Pokemon to Pokemon Champions (releasing April 8, 2026).
+
+**What you cannot do:**
+
+- Transfer Z-A Pokemon back to any previous game (Scarlet/Violet, Sword/Shield,
+  Legends: Arceus, etc.).
+- If you bring a Pokemon from a past title into Z-A, it permanently loses the ability
+  to return to those previous games.
+
+**Mystery Gifts:**
+
+Deposit any Z-A Pokemon into the Nintendo Switch version of HOME, then open the Mystery
+Gift tab on the mobile app to claim Alpha Chikorita, Alpha Tepig, and Alpha Totodile.
+
+There is also an alternate-form Magearna available exclusively in HOME. Transfer it to
+Z-A and, if you have the Magearnite and the Mega Dimension DLC, you can Mega Evolve it.
+Mega Magearna (Original Colour Form) has its own Pokedex entry — it is the final Mega
+Evolution available in the game.
+
+**Champions promotion:**
+
+Send a Chesnaught, Delphox, Greninja, or Eternal Flower Floette that you caught in Z-A
+to visit Pokemon Champions to receive the corresponding Mega Stone in Champions
+(Chesnaughtite, Delphoxite, Greninjite, Floettite). These must be Z-A-caught — the
+same species from other games will not qualify.
+
+**Completing the Z-A National Dex:**
+
+The Z-A Pokedex in HOME is brand new as of this update. The available species pool is
+limited to what can appear in Z-A, so this dex will likely be more contained than
+Paldea or Galar. Expect the active trading scene to be lively in the weeks following
+the HOME update — use that window to grab version-specific or rare species via GTS.
+
 ## Pokémon Go
 
-Again, this can't be completed now.
+Again, this still can't be completed. As of April 2026, it remains the only National
+Dex in HOME that cannot be finished.
 
 Some 'mons haven't been released, specially those from the latest generations (Paldea and Galar have been partly released) and there are some others that can't be found.
 
