@@ -82,14 +82,6 @@ HOME compatibility for Z-A arrived with the version 4.0.0 update on April 2, 202
 it works differently from every other supported game — read the caveats carefully before
 transferring anything.
 
-
-<p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/33a26184-f21d-44ef-8bb9-f6ca07e7af10" alt="Lumiose Pokédexes on Pokémon Home">
-</p>
-
-It brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
-
-
 **What you can do:**
 
 - Transfer Pokemon from your Z-A team into HOME.
@@ -102,6 +94,34 @@ It brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of t
   Legends: Arceus, etc.).
 - If you bring a Pokemon from a past title into Z-A, it permanently loses the ability
   to return to those previous games.
+
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/33a26184-f21d-44ef-8bb9-f6ca07e7af10" alt="Lumiose Pokédexes on Pokémon Home">
+</p>
+
+It brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
+
+The first two are same old, same old. Just mass transfer stuff from ZA to Home, save, and bring them back so the entries are marked.
+
+The Mega Evolution Pokédex works differently. Actually, no need to transfer anything for this one: entries from Pokémon Legends: Z-A are filled by syncing your Legends: Z-A save with HOME, not by mega‑evolving a Pokémon in battle and then transferring it.
+
+**How the Mega Pokedex syncs**
+When you connect your Legends: Z‑A save to Pokémon HOME, the game sends Mega Evolution data back to your HOME account.
+
+A Mega Evolution entry in the HOME Pokedex becomes "completed" once that Mega Evolution is registered in your Legends: Z‑A Pokedex (i.e., you have both the Pokémon and its Mega Stone in Z‑A, or you’ve Mega‑evolved it at least once there).
+
+**What you actually need to do**
+Beat the Z‑A story content that unlocks Mega Evolution (Lumiose City side content, etc.).
+
+Obtain the Mega Stone for a given Pokémon in Z‑A (either via story or shops like Quasartico Inc. / Stone Emporium).
+
+Have both the Pokémon and its Stone in your possession; the Mega Evolution entry in Z‑A's Pokédex will then unlock, and that will later appear in the HOME Mega Evolution Pokedex once the accounts sync.
+
+**Transferring vs. Pokedex completion**
+You do not have to transfer every Mega‑evolved Pokémon to HOME to complete the Mega Pokedex. HOME pulls the Mega‑evolution "stamp" from your Z‑A save, not from individual transferred species.
+
+However, to see Mega forms of specific Pokémon in HOME (e.g., Shiny Mega Charizard X), you generally still need to transfer at least one base‑form of that Pokémon that can Mega‑evolve.
 
 **Mystery Gifts:**
 
