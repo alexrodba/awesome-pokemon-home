@@ -100,9 +100,9 @@ transferring anything.
   <img width="300px" src="https://github.com/user-attachments/assets/33a26184-f21d-44ef-8bb9-f6ca07e7af10" alt="Lumiose Pokédexes on Pokémon Home">
 </p>
 
-It brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
+Legends Z-A compatibility brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
 
-The first two are same old, same old. Just mass transfer stuff from ZA to Home, save, and bring them back so the entries are marked.
+The first two are same old, same old. Just mass transfer stuff from Z-A to Home, save, and bring them back so the entries are marked.
 
 The Mega Evolution Pokédex works differently. Actually, no need to transfer anything for this one: entries from Pokémon Legends: Z-A are filled by syncing your Legends: Z-A save with HOME, not by mega‑evolving a Pokémon in battle and then transferring it.
 
