@@ -2,7 +2,7 @@
 
 So you've completed every dex in every game you own, and you feel like you've accomplished everything... but not! Pokémon Home has its own versions of the national Pokédex.
 
-You can complete the in-game Pokédex of any game by transfering over 'mons from any game so they register (ok, there are a few exceptions, like you're not able to bring in Nincada nor Spinda into Pokémon Shiny Pearl / Brilliant Diamond, [and other exepctions](https://comicbook.com/gaming/news/pokemon-home-spinda-nincada-gigantamax-pikachu-eevee/)), but to complete a National dex on Pokémon Home, you have to catch/hatch every species in that game.
+You can complete the in-game Pokédex of any game by transfering over 'mons from any game so they register (ok, there are a few exceptions, like you're not able to bring in Nincada nor Spinda into Pokémon Shiny Pearl / Brilliant Diamond, [and other exceptions](https://comicbook.com/gaming/news/pokemon-home-spinda-nincada-gigantamax-pikachu-eevee/)), but to complete a National dex on Pokémon Home, you have to catch/hatch every species in that game.
 
 Congratulations, you're in for a new level of trouble. But fret not, I am here to help you!
 
@@ -81,6 +81,14 @@ Outside of that, nothing really difficult, but some 'mons take ages to appear, s
 HOME compatibility for Z-A arrived with the version 4.0.0 update on April 2, 2026, but
 it works differently from every other supported game — read the caveats carefully before
 transferring anything.
+
+
+<p align="center">
+  <img width="300px" src="https://github.com/user-attachments/assets/33a26184-f21d-44ef-8bb9-f6ca07e7af10" alt="Lumiose Pokédexes on Pokémon Home">
+</p>
+
+It brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
+
 
 **What you can do:**
 
