@@ -53,6 +53,16 @@ I have divided this guide in the following subsections, and then you'll find oth
 
 - [r/PokemonHome](https://www.reddit.com/r/PokemonHome/) - Subreddit dedicated to Pokémon HOME discussions.
 
+## Changelog
+
+- **April 2026** — Added Pokémon Legends: Z-A section with HOME 4.0.0 compatibility notes, transfer caveats, Mystery Gifts, Champions promotion, and Mega Evolution Pokédex details.
+- **January 2026** — Updated game-specific Pokédex guides and main Pokédex notes.
+- **June 2025** — Updates to box organization and README.
+- **May 2025** — Expanded trading section; updated challenges.
+- **January 2025** — Updated games and box organization sections.
+- **December 2024** — Updates across trading, main Pokédex, and README.
+- **November 2024** — Initial release. Sections created: main Pokédex, game-specific Pokédexes, box organization, trading, challenges.
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
