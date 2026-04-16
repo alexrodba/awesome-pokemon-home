@@ -20,7 +20,7 @@ Most Pokémon species on a given National dex will be catchable in that specific
 
 I'll tell you how I did it with each of the games.
 
-## Paldea - Pokémon Scarlet & Violet and DLCs
+## Pokemon Scarlet & Violet
 
 This one was probably the easiest one, as it's the most recent game, so in-game trading is very active (compared to other games). I was able to catch most of the 'mons inside the game.
 
@@ -30,7 +30,7 @@ The only tricky part I remember was getting all of the starters that you can get
 
 Also, you can fill most of this national dex using brute force purely through Wonder Box trading. Most trades nowadays come with Pokémon from Paldea, as it's the most popular game, so give it enough time and you'll see that you can get to 80% of the national dex easily by purely using this method.
 
-## Hisui - Legends Arceus
+## Legends Arceus
 
 Probably the most fun, for me. I loved this game, so it felt fantastic to have yet another reason to load it and immerse myself in the land of Hisui.
 
@@ -40,7 +40,7 @@ In fact, Alakazam/Gengar/Machamp/Golem are easily tradeable for each other using
 
 I only had a bit of trouble catching extremely rare 'mons like Cranidos and Shieldon, if I recall correclty, but nothing to write home about.
 
-## Sinnoh - Pokémon Brilliant Diamond & Shiny Pearl
+## Pokemon Brilliant Diamond & Shiny Pearl
 
 Now, this was my most difficult to complete. The game fanbase isn't very active, so trading is almost non-existant, and also, to be honest, it was a pretty rubbish remake so I understand why not a lot of people are playing it.
 
@@ -52,7 +52,7 @@ I struggled to get a Gengar via trading, so I caught a Gastly, brought it into L
 
 For game exclusives, I simply brought in the specific species from another game and bred it with a Ditto at the Nursery. Remember [these tips](https://primagames.com/tips/best-pokemon-scarlet-and-violet-trade-codes) to have your eggs hatch faster.
 
-## Galar - Pokémon Sword & Shield and DLCs
+## Pokemon Sword & Shield
 
 Not a particularly difficult game, it's just that there are A LOT of 'mons here, too. 400 in the main games, and 210 in each DLC.
 
@@ -62,7 +62,7 @@ On Isle of Armor, the only somewhat tricky are Galarian Slowbro and Slowking bec
 
 On Crown Tundra, I did the trick of bringing Electabuzz and Magmar into Legends Arceus to evolve them there, and bring them back to complete this National Pokédex. The rest was also a walk in the park.
 
-## Kanto - Let's Go Pikachu/Eevee
+## Let's Go Pikachu/Eevee
 
 I took some time to complete this National Dex mostly because I didn't remember how awkward the catching system was on this game. My joycons maybe aren't calibrated well, so I spent too many balls throwing off target.
 
@@ -76,7 +76,7 @@ In order to get Alakazam, Gengar, Machamp and Golem, I had to get their stage 1 
 
 Outside of that, nothing really difficult, but some 'mons take ages to appear, so stock up on Repels and Lures to get that pesky Clefable.
 
-## Lumiose - Pokemon Legends: Z-A
+## Pokemon Legends Z-A
 
 HOME compatibility for Z-A arrived with the version 4.0.0 update on April 2, 2026, but
 it works differently from every other supported game — read the caveats carefully before
@@ -147,7 +147,7 @@ limited to what can appear in Z-A, so this dex will likely be more contained tha
 Paldea or Galar. Expect the active trading scene to be lively in the weeks following
 the HOME update — use that window to grab version-specific or rare species via GTS.
 
-## Pokémon Go
+## Pokemon Go
 
 Again, this still can't be completed. As of April 2026, it remains the only National
 Dex in HOME that cannot be finished.
