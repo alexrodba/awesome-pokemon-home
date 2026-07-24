@@ -9,7 +9,7 @@ The first big challenge is to complete the main Pokédex. This means, to registe
 Let's open the Pokédex functionality of our Pokémon Home app:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f4422b3-c1a0-4181-8cec-3cb8e30039a1" alt="Pokédex">
+  <img src="../assets/img/2f4422b3-c1a0-4181-8cec-3cb8e30039a1.gif" alt="Pokédex">
 </p>
 
 
@@ -17,7 +17,7 @@ We will focus on the _National_ section for now. _National_ refers to the concep
 
 The main goal is to have this:
 <p align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/f1f149f4-d061-47de-ab61-5ac4c8ff24ed" alt="Pokédex filters">
+  <img width="600" src="../assets/img/f1f149f4-d061-47de-ab61-5ac4c8ff24ed.png" alt="Pokédex filters">
 </p>
 
 # Why?
@@ -53,11 +53,11 @@ In my case, I was pretty unprepared. When I was young, I had only played the fir
 
 The easy way to go about this is to to start transferring Pokémon over to Home from all the main series games, one at a time.
 
-For instance, you start with Let's go Pikachu/Eeevee and you can get the first 151 species registered right away. If you had a living dex in the game, BOOM, you also get it in the app, as we will see in the next section [Completing game-specific Pokédexes](sections/games.md), and then do the same with the other games.
+For instance, you start with Let's go Pikachu/Eevee and you can get the first 151 species registered right away. If you had a living dex in the game, BOOM, you also get it in the app, as we will see in the next section [Completing game-specific Pokédexes](games.md), and then do the same with the other games.
 
 To complete the National Pokédex on Pokémon HOME, you need the following minimum set of games:
 
-* Pokémon Scarlet and Pokémon Violet (including their DLCs: Isle of Armor, Crown Tundra, Teal Mask, and Indigo Disk).
+* Pokémon Scarlet and Pokémon Violet (including their DLC, The Hidden Treasure of Area Zero: The Teal Mask and The Indigo Disk).
 * Pokémon Legends: Arceus.
 * Pokémon Sword or Shield.
 * Pokémon Brilliant Diamond or Shining Pearl.
@@ -65,4 +65,4 @@ To complete the National Pokédex on Pokémon HOME, you need the following minim
 
 If you play Pokémon Go, you can also transfer a lot of useful 'mons from there via the Transporter. Pokémon Go has been particularly useful for me because it's the best game to catch shinies and legendaries, which turn into great trade fodder in Home.
 
-Last, but not least, check what you're missing out and see if you can get them via [Trading](sections/trading.md)
+Last, but not least, check what you're missing out and see if you can get them via [Trading](trading.md)

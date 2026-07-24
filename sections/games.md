@@ -2,14 +2,14 @@
 
 So you've completed every dex in every game you own, and you feel like you've accomplished everything... but not! Pokémon Home has its own versions of the national Pokédex.
 
-You can complete the in-game Pokédex of any game by transfering over 'mons from any game so they register (ok, there are a few exceptions, like you're not able to bring in Nincada nor Spinda into Pokémon Shiny Pearl / Brilliant Diamond, [and other exceptions](https://comicbook.com/gaming/news/pokemon-home-spinda-nincada-gigantamax-pikachu-eevee/)), but to complete a National dex on Pokémon Home, you have to catch/hatch every species in that game.
+You can complete the in-game Pokédex of any game by transfering over 'mons from any game so they register (ok, there are a few exceptions, like you're not able to bring in Nincada nor Spinda into Pokémon Shining Pearl / Brilliant Diamond, [and other exceptions](https://comicbook.com/gaming/news/pokemon-home-spinda-nincada-gigantamax-pikachu-eevee/)), but to complete a National dex on Pokémon Home, you have to catch/hatch every species in that game.
 
 Congratulations, you're in for a new level of trouble. But fret not, I am here to help you!
 
 First off, how to get to that section of Pokémon Home:
 
 <p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/97a75611-9ea1-4120-b3b5-5cf2cafb064c" alt="National Pokédexes page on Pokémon Home">
+  <img width="300px" src="../assets/img/97a75611-9ea1-4120-b3b5-5cf2cafb064c.gif" alt="National Pokédexes page on Pokémon Home">
 </p>
 
 As you can see, mine are all complete except for Pokémon Go's. Pokémon Go's dex can't be completed today (Jan 2025) because a lot of species haven't been released in-game yet or they've been made event-exclusive.
@@ -38,11 +38,11 @@ In legends Arceus, there's no egg hatching, so you have to rely on catching and 
 
 In fact, Alakazam/Gengar/Machamp/Golem are easily tradeable for each other using Pokémon Home's GTS, so if you do a bunch of trades, with enough patience you'll get these 'mons in a day or two.
 
-I only had a bit of trouble catching extremely rare 'mons like Cranidos and Shieldon, if I recall correclty, but nothing to write home about.
+I only had a bit of trouble catching extremely rare 'mons like Cranidos and Shieldon, if I recall correctly, but nothing to write home about.
 
-## Pokemon Brilliant Diamond & Shiny Pearl
+## Pokemon Brilliant Diamond & Shining Pearl
 
-Now, this was my most difficult to complete. The game fanbase isn't very active, so trading is almost non-existant, and also, to be honest, it was a pretty rubbish remake so I understand why not a lot of people are playing it.
+Now, this was my most difficult to complete. The game fanbase isn't very active, so trading is almost non-existent, and also, to be honest, it was a pretty rubbish remake so I understand why not a lot of people are playing it.
 
 I suffered quite a bit to complete this one because it shares too many 'mons with Legends Arceus, so every time I'd request a species for this National Dex, I'd get a 'mon caught in Legends Arceus.
 
@@ -97,7 +97,7 @@ transferring anything.
 
 
 <p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/33a26184-f21d-44ef-8bb9-f6ca07e7af10" alt="Lumiose Pokédexes on Pokémon Home">
+  <img width="300px" src="../assets/img/33a26184-f21d-44ef-8bb9-f6ca07e7af10.jpg" alt="Lumiose Pokédexes on Pokémon Home">
 </p>
 
 Legends Z-A compatibility brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.

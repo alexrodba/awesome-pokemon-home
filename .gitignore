@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Editor / OS cruft
+Thumbs.db
+desktop.ini
