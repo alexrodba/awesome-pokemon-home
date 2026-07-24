@@ -1,51 +1,37 @@
 # Awesome Pokémon HOME [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/28d15842-94d2-4e10-ae72-6e9f9b9ba7d5" alt="Awesome Pokémon Home logo">
+  <img width="300px" src="assets/logo.jpg" alt="Awesome Pokémon Home logo">
 </p>
 
 > A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update randomly by [@lexrodba](http://twitter.com/lexrodba).
 
 ## Contents
 
-- [How to use this guide](#guide-explainer)
-  - [Completing the Main Pokédex](sections/main-pokedex.md)
-  - [Completing Game-Specific Pokédexes](sections/games.md)
-    - [Pokemon Scarlet & Violet](sections/games.md#pokemon-scarlet--violet)
-    - [Legends Arceus](sections/games.md#legendsarceus)
-    - [Pokemon Brilliant Diamond & Shiny Pearl](sections/games.md#pokemon-brilliant-diamond--shiny-pearl)
-    - [Pokemon Sword & Shield](sections/games.md#pokemon-sword--shield)
-    - [Let's Go Pikachu/Eevee](sections/games.md#letsgo)
-    - [Pokemon Legends Z-A](sections/games.md#pokemon-legends-z-a)
-    - [Pokemon Go](sections/games.md#pokemon-go)
-  - [Box Organization](sections/boxes.md)
-  - [Trading](sections/trading.md)
-  - [Challenges](sections/challenges.md) 
+- [How to use this guide](#how-to-use-this-guide)
+- [Completing the Main Pokédex](sections/main-pokedex.md)
+- [Completing Game-Specific Pokédexes](sections/games.md)
+  - [Pokemon Scarlet & Violet](sections/games.md#pokemon-scarlet--violet)
+  - [Legends Arceus](sections/games.md#legends-arceus)
+  - [Pokemon Brilliant Diamond & Shining Pearl](sections/games.md#pokemon-brilliant-diamond--shining-pearl)
+  - [Pokemon Sword & Shield](sections/games.md#pokemon-sword--shield)
+  - [Let's Go Pikachu/Eevee](sections/games.md#lets-go-pikachueevee)
+  - [Pokemon Legends Z-A](sections/games.md#pokemon-legends-z-a)
+  - [Pokemon Go](sections/games.md#pokemon-go)
+- [Box Organization](sections/boxes.md)
+- [Trading](sections/trading.md)
+- [Challenges](sections/challenges.md)
 - [Official resources](#official-resources)
 - [The basics](#the-basics)
 - [Tools and utilities](#tools-and-utilities)
 - [Communities and forums](#communities-and-forums)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## How to use this guide
 
 I am writing this guide as a braindump of all I know about Pokémon Home. You will find useful information like how to complete the Pokédex for each games, how to build living dexes, how to trade efficiently, do's and don'ts and amusing information like a section of Pokémon with fun names I've come across.
 
-I have divided this guide in the following subsections, and then you'll find other sections with useful resources at the end of it.
-
-- [Completing the Main Pokédex](sections/main-pokedex.md)
-- [Completing Game-Specific Pokédexes](sections/games.md)
-  - [Pokemon Scarlet & Violet](sections/games.md#pokemon-scarlet--violet)
-  - [Legends Arceus](sections/games.md#legendsarceus)
-  - [Pokemon Brilliant Diamond & Shiny Pearl](sections/games.md#pokemon-brilliant-diamond--shiny-pearl)
-  - [Pokemon Sword & Shield](sections/games.md#pokemon-sword--shield)
-  - [Let's Go Pikachu/Eevee](sections/games.md#letsgo)
-  - [Pokemon Legends Z-A](sections/games.md#pokemon-legends-z-a)
-  - [Pokemon Go](sections/games.md#pokemon-go)
-- [Box Organization](sections/boxes.md)
-- [Trading](sections/trading.md)
-- [Challenges](sections/challenges.md)
+I have divided this guide into the subsections listed in [Contents](#contents) above, and then you'll find other sections with useful resources at the end of it.
 
 ## Official resources
 
@@ -69,6 +55,7 @@ I have divided this guide in the following subsections, and then you'll find oth
 
 ## Changelog
 
+- **July 2026** — Corrected the Scarlet/Violet DLC names, fixed broken cross-section links and README anchors, deduplicated the table of contents, localized all images into `assets/`, and fixed assorted typos.
 - **April 2026** — Added Pokémon Legends: Z-A section with HOME 4.0.0 compatibility notes, transfer caveats, Mystery Gifts, Champions promotion, and Mega Evolution Pokédex details.
 - **January 2026** — Updated game-specific Pokédex guides and main Pokédex notes.
 - **June 2025** — Updates to box organization and README.
