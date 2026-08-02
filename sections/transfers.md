@@ -23,4 +23,4 @@ Moving Pokémon around HOME is mostly safe, but a few transfers are **irreversib
 | Fact | Why it's useful |
 | --- | --- |
 | **Origin sticks after evolving elsewhere** | A Pokémon counts for the dex of the game where it was **caught or hatched**, not where it evolved. So you can catch a Gastly in BDSP, evolve it into Gengar in Legends: Arceus, bring it back, and it still fills the BDSP entry. |
-| **Trade-evolutions can skip the trade** | Several 'mons that normally evolve by trading (Gengar, Machamp, Golem, Alakazam and more) can be evolved with an item in Legends: Arceus instead — no second player required. |
+| **Trade-evolutions can skip the trade** | Several 'mons that normally evolve by trading (Gengar, Machamp, Golem, Alakazam and more) can be evolved with an item in Legends: Arceus instead - no second player required. |

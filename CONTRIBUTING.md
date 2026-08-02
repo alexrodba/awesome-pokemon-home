@@ -4,7 +4,7 @@ Thanks for wanting to help improve **Awesome Pokémon HOME**! This is a personal
 
 ## What belongs here
 
-- First-hand tips and strategies for **Pokémon HOME** — trading, dex completion, box organisation, challenges and the like.
+- First-hand tips and strategies for **Pokémon HOME** - trading, dex completion, box organisation, challenges and the like.
 - Accurate, up-to-date information. If something has changed in a game or in HOME itself, corrections are very welcome.
 - Genuinely useful links: official resources, solid guides, reference sites and active communities. Follow the existing `- [Title](url) - short description.` format.
 
@@ -13,7 +13,7 @@ Thanks for wanting to help improve **Awesome Pokémon HOME**! This is a personal
 - Piracy, save-editing / genning services, or anything that breaks the games' terms of service.
 - Affiliate / referral spam or self-promotion with no real value to readers.
 - Broken, paywalled or dead links.
-- Huge walls of text copied from other wikis — link to them instead.
+- Huge walls of text copied from other wikis - link to them instead.
 
 ## Style
 
@@ -26,7 +26,7 @@ Thanks for wanting to help improve **Awesome Pokémon HOME**! This is a personal
 ## How to submit
 
 1. Fork the repo and create a branch.
-2. Make your change — one topic per pull request keeps things easy to review.
+2. Make your change - one topic per pull request keeps things easy to review.
 3. Open a pull request describing what you changed and why.
 
 ## Licensing

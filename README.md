@@ -45,8 +45,8 @@ New to Pokémon HOME or just my shorthand? Here are the terms that show up throu
 | Term | What it means |
 | --- | --- |
 | **'mon(s)** | Shorthand for Pokémon. Used all over this guide. |
-| **Pokémon HOME** | The cloud app this guide is about — it stores your Pokémon and moves them between the main games. |
-| **National Pokédex** (National Dex) | The master list of every species across all games — 1025 at the last update. |
+| **Pokémon HOME** | The cloud app this guide is about - it stores your Pokémon and moves them between the main games. |
+| **National Pokédex** (National Dex) | The master list of every species across all games - 1025 at the last update. |
 | **Living Dex** | A collection where you actually *keep* one of every species stored at once, not just registered. |
 | **GTS (Global Trading System)** | HOME's worldwide trading feature. You can park, search for, or offer 'mons. |
 | **Parking** | Depositing a 'mon in the GTS with a set request and waiting for someone to fulfil it. |
@@ -55,21 +55,21 @@ New to Pokémon HOME or just my shorthand? Here are the terms that show up throu
 | **Friend Trade** | A direct trade with someone on your HOME friend list. |
 | **Trade fodder** | Common or duplicate 'mons you keep around specifically to trade away. |
 | **Brute-forcing** | Grinding lots of low-effort trades (usually Wonder Box) until dex entries and challenges fill up on their own. |
-| **Premium Plan** | HOME's paid subscription — more storage (up to 6000), a bigger Wonder Box (10 vs 3), room hosting, etc. |
+| **Premium Plan** | HOME's paid subscription - more storage (up to 6000), a bigger Wonder Box (10 vs 3), room hosting, etc. |
 | **Shiny** | A rare alternate coloration of a Pokémon. |
 | **Legendary / Mythical** | Rare, powerful species; Mythicals are usually event-only. |
 | **Nature** | A trait that raises one of a 'mon's stats and lowers another. |
 | **Pokérus** | A rare, beneficial "virus" that boosts stat growth; it doesn't wear off while a 'mon sits in HOME. |
 | **Mega Evolution / Mega Stone** | A special battle form (central to Legends: Z-A's Mega Pokédex), triggered by a species-specific Mega Stone. |
 | **Breeding / Ditto** | Producing eggs at the Nursery to get a species; Ditto breeds with almost anything, so it's the universal partner. |
-| **Touch trade** | Briefly trading a 'mon just to register it in your dex, then trading it back — so it isn't truly yours. |
+| **Touch trade** | Briefly trading a 'mon just to register it in your dex, then trading it back - so it isn't truly yours. |
 | **Mystery Gift** | The feature for claiming distributed 'mons or items via codes or events. |
 | **Transporter** | The GO Transporter link that moves 'mons one-way from Pokémon GO into HOME. |
 | **DLC** | Paid expansion content, like Scarlet/Violet's *The Teal Mask* and *The Indigo Disk*. |
 
 ## Free vs. Premium: which plan do I need?
 
-You can get a long way on the **free (Basic) plan**, but the **Premium** subscription (a yearly purchase through the Nintendo eShop) removes the limits that hurt collectors most. These are the differences that actually matter for this guide — see the [official site](https://home.pokemon.com/) for the complete comparison.
+You can get a long way on the **free (Basic) plan**, but the **Premium** subscription (a yearly purchase through the Nintendo eShop) removes the limits that hurt collectors most. These are the differences that actually matter for this guide - see the [official site](https://home.pokemon.com/) for the complete comparison.
 
 | What you get | Basic (free) | Premium (paid) |
 | --- | --- | --- |
@@ -77,18 +77,18 @@ You can get a long way on the **free (Basic) plan**, but the **Premium** subscri
 | Wonder Box deposits at once | 3 | 10 |
 | Room Trade | Join existing rooms | Join **and** host your own rooms |
 
-If you're seriously chasing a living dex or trading a lot, Premium is worth it — 30 slots fills up almost immediately.
+If you're seriously chasing a living dex or trading a lot, Premium is worth it - 30 slots fills up almost immediately.
 
 ## FAQ
 
 **Do I need Premium?**
-No — you can complete dexes on the free plan. But the 30-Pokémon storage limit fills up fast, so if you're collecting seriously, [Premium](#free-vs-premium-which-plan-do-i-need) (6,000 slots) is well worth it.
+No - you can complete dexes on the free plan. But the 30-Pokémon storage limit fills up fast, so if you're collecting seriously, [Premium](#free-vs-premium-which-plan-do-i-need) (6,000 slots) is well worth it.
 
 **What's the cheapest set of games to finish the National Dex?**
 The minimum is Scarlet & Violet (with both DLCs), Legends: Arceus, Sword *or* Shield, Brilliant Diamond *or* Shining Pearl, and Let's Go Pikachu *or* Eevee. See the [full table](sections/main-pokedex.md#ready-lets-go).
 
 **Can I get Mythicals through trading?**
-Some, occasionally — the odd one turns up via GTS or Wonder Box generosity. But many Mythicals (like Magearna) can't be obtained through normal trades and require their specific event or game. Don't count on trading for them.
+Some, occasionally - the odd one turns up via GTS or Wonder Box generosity. But many Mythicals (like Magearna) can't be obtained through normal trades and require their specific event or game. Don't count on trading for them.
 
 **Is Pokémon GO's dex completable?**
 No. It's the only National Dex in HOME that currently **can't** be finished, because some species haven't been released in GO yet and others are event-locked. See the [Pokémon GO section](sections/games.md#pokemon-go).
@@ -122,7 +122,7 @@ No. It's the only National Dex in HOME that currently **can't** be finished, bec
 
 ## Contributing
 
-Spotted something out of date, or have a tip worth adding? Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for what belongs here and how to submit a pull request. This guide is public domain, so your additions help everyone.
+Spotted something out of date, or have a tip worth adding? Contributions are welcome - see [CONTRIBUTING.md](CONTRIBUTING.md) for what belongs here and how to submit a pull request. This guide is public domain, so your additions help everyone.
 
 ## Changelog
 
