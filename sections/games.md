@@ -1,5 +1,7 @@
 # How to complete the games-specific Pokédex
 
+_Last updated: April 2026. See the [changelog](../README.md#changelog) for the full history._
+
 So you've completed every dex in every game you own, and you feel like you've accomplished everything... but not! Pokémon Home has its own versions of the national Pokédex.
 
 You can complete the in-game Pokédex of any game by transfering over 'mons from any game so they register (ok, there are a few exceptions, like you're not able to bring in Nincada nor Spinda into Pokémon Shining Pearl / Brilliant Diamond, [and other exceptions](https://comicbook.com/gaming/news/pokemon-home-spinda-nincada-gigantamax-pikachu-eevee/)), but to complete a National dex on Pokémon Home, you have to catch/hatch every species in that game.
@@ -9,14 +11,26 @@ Congratulations, you're in for a new level of trouble. But fret not, I am here t
 First off, how to get to that section of Pokémon Home:
 
 <p align="center">
-  <img width="300px" src="../assets/img/97a75611-9ea1-4120-b3b5-5cf2cafb064c.gif" alt="National Pokédexes page on Pokémon Home">
+  <img width="300px" src="../assets/img/national-pokedexes-page.gif" alt="National Pokédexes page on Pokémon Home">
 </p>
 
-As you can see, mine are all complete except for Pokémon Go's. Pokémon Go's dex can't be completed today (Jan 2025) because a lot of species haven't been released in-game yet or they've been made event-exclusive.
+As you can see, mine are all complete except for Pokémon Go's. Its dex can't be completed because a lot of species haven't been released in-game yet, or they've been made event-exclusive.
 
 Now, how do you complete the National Dexes? Again, you have to get a species that has been originally obtained in that specific game.
 
 Most Pokémon species on a given National dex will be catchable in that specific game. If not, they have be be obtained through [breeding](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_breeding). And last, you can obtain others by trading (especially, the game-exclusive).
+
+Here's the quick version before the war stories below:
+
+| Game | Difficulty | Trading activity | Trickiest to get |
+| --- | --- | --- | --- |
+| Scarlet & Violet | Easiest | Very active | Blueberry Terrarium starters |
+| Legends: Arceus | Easy (and fun) | GTS-friendly | Cranidos, Shieldon |
+| Brilliant Diamond & Shining Pearl | Hardest | Almost none | Trade-evolutions (e.g. Gengar); shares 'mons with Legends: Arceus |
+| Sword & Shield | Medium (lots of 'mons) | Active | Galarian Slowbro/Slowking (Galarica items) |
+| Let's Go Pikachu/Eevee | Medium | None found in-game | Re-registering Kanto starter stages; slow spawns (Clefable) |
+| Legends Z-A | New, limited pool | Expected lively at launch | Mega Pokédex (syncs from your save, not transfers) |
+| Pokémon Go | Can't be completed | N/A | Unreleased/event-locked species, Spinda |
 
 I'll tell you how I did it with each of the games.
 
@@ -78,79 +92,64 @@ Outside of that, nothing really difficult, but some 'mons take ages to appear, s
 
 ## Pokemon Legends Z-A
 
-HOME compatibility for Z-A arrived with the version 4.0.0 update on April 2, 2026, but
-it works differently from every other supported game — read the caveats carefully before
-transferring anything.
+HOME compatibility for Z-A landed with the version 4.0.0 update on April 2nd, 2026, and it's the odd one out: it doesn't behave like any other supported game, so read the caveats before you transfer a single 'mon.
 
-**What you can do:**
+### What you can and can't do
 
-- Transfer Pokemon from your Z-A team into HOME.
-- Bring select Pokemon from past titles into Lumiose City via HOME.
-- Send Z-A Pokemon to Pokemon Champions (releasing April 8, 2026).
+You **can**:
 
-**What you cannot do:**
+- Transfer 'mons from your Z-A team into HOME.
+- Bring select 'mons from past titles into Lumiose City through HOME.
+- Send Z-A 'mons to Pokémon Champions (which released on April 8th, 2026).
 
-- Transfer Z-A Pokemon back to any previous game (Scarlet/Violet, Sword/Shield,
-  Legends: Arceus, etc.).
-- If you bring a Pokemon from a past title into Z-A, it permanently loses the ability
-  to return to those previous games.
+You **cannot**:
 
+- Send Z-A 'mons back to any previous game (Scarlet/Violet, Sword/Shield, Legends: Arceus, and so on).
+- Undo bringing a past-title 'mon into Z-A: the moment you do, it permanently loses the ability to return to those earlier games. Be careful with this one.
 
 <p align="center">
-  <img width="300px" src="../assets/img/33a26184-f21d-44ef-8bb9-f6ca07e7af10.jpg" alt="Lumiose Pokédexes on Pokémon Home">
+  <img width="300px" src="../assets/img/lumiose-pokedexes.jpg" alt="Lumiose Pokédexes on Pokémon Home">
 </p>
 
-Legends Z-A compatibility brings the three Pokédexes: Lumiose Pokédex, Hyperspace Pokédex (that of the DLC) and Mega Evolution Pokédex.
+### The three Pokédexes
 
-The first two are same old, same old. Just mass transfer stuff from Z-A to Home, save, and bring them back so the entries are marked.
+Z-A brings three of them: the Lumiose Pokédex, the Hyperspace Pokédex (the DLC one) and the Mega Evolution Pokédex.
 
-The Mega Evolution Pokédex works differently. Actually, no need to transfer anything for this one: entries from Pokémon Legends: Z-A are filled by syncing your Legends: Z-A save with HOME, not by mega‑evolving a Pokémon in battle and then transferring it.
+The first two are same old, same old: mass transfer your 'mons from Z-A to Home, save, and bring them back so the entries get marked.
 
-**How the Mega Pokedex syncs**
-When you connect your Legends: Z‑A save to Pokémon HOME, the game sends Mega Evolution data back to your HOME account.
+The Mega Evolution Pokédex is the weird one, so it gets its own section below.
 
-A Mega Evolution entry in the HOME Pokedex becomes "completed" once that Mega Evolution is registered in your Legends: Z‑A Pokedex (i.e., you have both the Pokémon and its Mega Stone in Z‑A, or you’ve Mega‑evolved it at least once there).
+### The Mega Evolution Pokédex
 
-**What you actually need to do**
-Beat the Z‑A story content that unlocks Mega Evolution (Lumiose City side content, etc.).
+Here's the twist: you don't transfer anything to fill this one. The entries come from syncing your Z-A save with HOME, not from mega-evolving a 'mon in battle and shipping it over.
 
-Obtain the Mega Stone for a given Pokémon in Z‑A (either via story or shops like Quasartico Inc. / Stone Emporium).
+When you connect your Z-A save to Pokémon HOME, the game sends your Mega Evolution data back to your account. An entry counts as "completed" once that Mega Evolution is registered in your Z-A Pokédex — meaning you either have both the Pokémon and its Mega Stone in Z-A, or you've mega-evolved it at least once in-game.
 
-Have both the Pokémon and its Stone in your possession; the Mega Evolution entry in Z‑A's Pokédex will then unlock, and that will later appear in the HOME Mega Evolution Pokedex once the accounts sync.
+So what you actually have to do is:
 
-**Transferring vs. Pokedex completion**
-You do not have to transfer every Mega‑evolved Pokémon to HOME to complete the Mega Pokedex. HOME pulls the Mega‑evolution "stamp" from your Z‑A save, not from individual transferred species.
+1. Beat the Z-A story content that unlocks Mega Evolution (the Lumiose City side content, etc.).
+2. Get the Mega Stone for that Pokémon, either through the story or from shops like Quasartico Inc. / Stone Emporium.
+3. Hold both the Pokémon and its Stone. That unlocks the entry in Z-A's Pokédex, and it'll show up in HOME's Mega Evolution Pokédex once your accounts sync.
 
-However, to see Mega forms of specific Pokémon in HOME (e.g., Shiny Mega Charizard X), you generally still need to transfer at least one base‑form of that Pokémon that can Mega‑evolve.
+One nuance: you don't have to transfer every mega-evolved 'mon to HOME to complete the dex, because HOME pulls the mega-evolution "stamp" straight from your save. But if you want to actually _see_ a specific Mega form in HOME (say, Shiny Mega Charizard X), you'll still need to transfer at least one base-form 'mon that can mega-evolve.
 
-**Mystery Gifts:**
+### Mystery Gifts
 
-Deposit any Z-A Pokemon into the Nintendo Switch version of HOME, then open the Mystery
-Gift tab on the mobile app to claim Alpha Chikorita, Alpha Tepig, and Alpha Totodile.
+Deposit any Z-A 'mon into the Nintendo Switch version of HOME, then open the Mystery Gift tab on the mobile app to claim Alpha Chikorita, Alpha Tepig and Alpha Totodile.
 
-There is also an alternate-form Magearna available exclusively in HOME. Transfer it to
-Z-A and, if you have the Magearnite and the Mega Dimension DLC, you can Mega Evolve it.
-Mega Magearna (Original Colour Form) has its own Pokedex entry — it is the final Mega
-Evolution available in the game.
+There's also an alternate-form Magearna you can only get in HOME. Transfer it to Z-A and, if you've got the Magearnite and the Mega Dimension DLC, you can Mega Evolve it. Mega Magearna (Original Colour Form) gets its own Pokédex entry — it's the last Mega Evolution available in the game.
 
-**Champions promotion:**
+### Champions promotion
 
-Send a Chesnaught, Delphox, Greninja, or Eternal Flower Floette that you caught in Z-A
-to visit Pokemon Champions to receive the corresponding Mega Stone in Champions
-(Chesnaughtite, Delphoxite, Greninjite, Floettite). These must be Z-A-caught — the
-same species from other games will not qualify.
+Send a Chesnaught, Delphox, Greninja or Eternal Flower Floette that you _caught in Z-A_ over to Pokémon Champions, and you'll get the matching Mega Stone there (Chesnaughtite, Delphoxite, Greninjite, Floettite). They have to be Z-A-caught — the same species from any other game won't cut it.
 
-**Completing the Z-A National Dex:**
+### Completing the Z-A National Dex
 
-The Z-A Pokedex in HOME is brand new as of this update. The available species pool is
-limited to what can appear in Z-A, so this dex will likely be more contained than
-Paldea or Galar. Expect the active trading scene to be lively in the weeks following
-the HOME update — use that window to grab version-specific or rare species via GTS.
+This dex is brand new as of the update. The species pool is limited to whatever can show up in Z-A, so it should be a lot more contained than Paldea or Galar. Expect trading to be lively in the weeks right after the HOME update — that's your window to grab version-specific or rare species through GTS.
 
 ## Pokemon Go
 
-Again, this still can't be completed. As of April 2026, it remains the only National
-Dex in HOME that cannot be finished.
+Again, this one still can't be completed — it remains the only National Dex in HOME you can't finish.
 
 Some 'mons haven't been released, specially those from the latest generations (Paldea and Galar have been partly released) and there are some others that can't be found.
 
