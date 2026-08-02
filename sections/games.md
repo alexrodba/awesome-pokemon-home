@@ -123,7 +123,7 @@ The Mega Evolution Pokédex is the weird one, so it gets its own section below.
 
 Here's the twist: you don't transfer anything to fill this one. The entries come from syncing your Z-A save with HOME, not from mega-evolving a 'mon in battle and shipping it over.
 
-When you connect your Z-A save to Pokémon HOME, the game sends your Mega Evolution data back to your account. An entry counts as "completed" once that Mega Evolution is registered in your Z-A Pokédex — meaning you either have both the Pokémon and its Mega Stone in Z-A, or you've mega-evolved it at least once in-game.
+When you connect your Z-A save to Pokémon HOME, the game sends your Mega Evolution data back to your account. An entry counts as "completed" once that Mega Evolution is registered in your Z-A Pokédex - meaning you either have both the Pokémon and its Mega Stone in Z-A, or you've mega-evolved it at least once in-game.
 
 So what you actually have to do is:
 
@@ -137,19 +137,19 @@ One nuance: you don't have to transfer every mega-evolved 'mon to HOME to comple
 
 Deposit any Z-A 'mon into the Nintendo Switch version of HOME, then open the Mystery Gift tab on the mobile app to claim Alpha Chikorita, Alpha Tepig and Alpha Totodile.
 
-There's also an alternate-form Magearna you can only get in HOME. Transfer it to Z-A and, if you've got the Magearnite and the Mega Dimension DLC, you can Mega Evolve it. Mega Magearna (Original Colour Form) gets its own Pokédex entry — it's the last Mega Evolution available in the game.
+There's also an alternate-form Magearna you can only get in HOME. Transfer it to Z-A and, if you've got the Magearnite and the Mega Dimension DLC, you can Mega Evolve it. Mega Magearna (Original Colour Form) gets its own Pokédex entry - it's the last Mega Evolution available in the game.
 
 ### Champions promotion
 
-Send a Chesnaught, Delphox, Greninja or Eternal Flower Floette that you _caught in Z-A_ over to Pokémon Champions, and you'll get the matching Mega Stone there (Chesnaughtite, Delphoxite, Greninjite, Floettite). They have to be Z-A-caught — the same species from any other game won't cut it.
+Send a Chesnaught, Delphox, Greninja or Eternal Flower Floette that you _caught in Z-A_ over to Pokémon Champions, and you'll get the matching Mega Stone there (Chesnaughtite, Delphoxite, Greninjite, Floettite). They have to be Z-A-caught - the same species from any other game won't cut it.
 
 ### Completing the Z-A National Dex
 
-This dex is brand new as of the update. The species pool is limited to whatever can show up in Z-A, so it should be a lot more contained than Paldea or Galar. Expect trading to be lively in the weeks right after the HOME update — that's your window to grab version-specific or rare species through GTS.
+This dex is brand new as of the update. The species pool is limited to whatever can show up in Z-A, so it should be a lot more contained than Paldea or Galar. Expect trading to be lively in the weeks right after the HOME update - that's your window to grab version-specific or rare species through GTS.
 
 ## Pokemon Go
 
-Again, this one still can't be completed — it remains the only National Dex in HOME you can't finish.
+Again, this one still can't be completed - it remains the only National Dex in HOME you can't finish.
 
 Some 'mons haven't been released, specially those from the latest generations (Paldea and Galar have been partly released) and there are some others that can't be found.
 

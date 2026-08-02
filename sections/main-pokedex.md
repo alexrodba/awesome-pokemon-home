@@ -4,7 +4,7 @@ _Last updated: April 2026. See the [changelog](../README.md#changelog) for the f
 
 Alright, we all want to be the best like no one ever was.
 
-The first big challenge is to complete the main Pokédex. This means registering each and every species there is — 1025 Pokémon as of this guide's last update, after the release of the Pokémon Scarlet and Violet DLCs.
+The first big challenge is to complete the main Pokédex. This means registering each and every species there is - 1025 Pokémon as of this guide's last update, after the release of the Pokémon Scarlet and Violet DLCs.
 
 Legends Z-A has since added its compatibility as well. It introduced no new species, but there's the Floette Eternal Flower form and three new Pokédex sections.
 
@@ -61,8 +61,8 @@ To complete the National Pokédex on Pokémon HOME, you need the following minim
 
 | Game | Versions you need | DLC required? |
 | --- | --- | --- |
-| Scarlet & Violet | Both | Yes — *The Teal Mask* + *The Indigo Disk* |
-| Legends: Arceus | — | No |
+| Scarlet & Violet | Both | Yes - *The Teal Mask* + *The Indigo Disk* |
+| Legends: Arceus | - | No |
 | Sword / Shield | Either one | No |
 | Brilliant Diamond / Shining Pearl | Either one | No |
 | Let's Go | Pikachu **or** Eevee | No |
