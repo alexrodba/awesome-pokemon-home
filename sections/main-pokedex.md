@@ -1,15 +1,17 @@
 # How to complete the main Pokédex
 
+_Last updated: April 2026. See the [changelog](../README.md#changelog) for the full history._
+
 Alright, we all want to be the best like no one ever was.
 
-The first big challenge is to complete the main Pokédex. This means, to register each and every species there is, which to this day is slightly above 1000 different Pokémon. At the time of writing (December 2024), it's 1025 Pokémon, after the release of the DLCs of Pokémon Scarlet and Violet.
+The first big challenge is to complete the main Pokédex. This means registering each and every species there is — 1025 Pokémon as of this guide's last update, after the release of the Pokémon Scarlet and Violet DLCs.
 
-**UPDATE**: It's Apr 3rd, 2026 and Legends Z-A just added its compatibility. There are no new species added but there's the Floette Eternal Flower form and the three new Pokédex sections.
+Legends Z-A has since added its compatibility as well. It introduced no new species, but there's the Floette Eternal Flower form and three new Pokédex sections.
 
 Let's open the Pokédex functionality of our Pokémon Home app:
 
 <p align="center">
-  <img src="../assets/img/2f4422b3-c1a0-4181-8cec-3cb8e30039a1.gif" alt="Pokédex">
+  <img src="../assets/img/pokedex-national-section.gif" alt="Pokédex">
 </p>
 
 
@@ -17,14 +19,14 @@ We will focus on the _National_ section for now. _National_ refers to the concep
 
 The main goal is to have this:
 <p align="center">
-  <img width="600" src="../assets/img/f1f149f4-d061-47de-ab61-5ac4c8ff24ed.png" alt="Pokédex filters">
+  <img width="600" src="../assets/img/pokedex-national-filter.png" alt="Pokédex filters">
 </p>
 
-# Why?
+## Why?
 
 Why not?
 
-# How?
+## How?
 
 With a lot of patience and discipline, although I would argue that it is more a question of timing, but we will get to this later.
 
@@ -39,7 +41,7 @@ There's no better way to do it than others. Some people are natural hunters and 
 
 But first, I think it is also important to focus on _when_ to start doing this.
 
-# When?
+## When?
 
 Most people starting to complete their Pokémon Home pokédex aren't ready. I thought I was, and when I was only 4-5 Pokémon short, I realised those weren't unobtainable nowadays.
 
@@ -49,7 +51,7 @@ You are not required to pay the premium subscription to have more space (up to 6
 
 In my case, I was pretty unprepared. When I was young, I had only played the first two generations, and my savegames got corrupted, so effectively speaking I had no 'mons out there from my younger years. In 2016, I reconnected with the saga with Pokémon Go, and then bought every Nintendo Switch game after that: Let's go Pikachu, Sword, Legends Arceus and Scarlet. Apparently, I missed Magearna because it is an unobtainable mythical nowadays (unless you complete the game it appears in) and I wasn't gonna do it. Instead, I touch-traded with a friend. This means, I don't have it in my living Pokédex.
 
-# Ready? Let's go!
+## Ready? Let's go!
 
 The easy way to go about this is to to start transferring Pokémon over to Home from all the main series games, one at a time.
 
@@ -57,11 +59,13 @@ For instance, you start with Let's go Pikachu/Eevee and you can get the first 15
 
 To complete the National Pokédex on Pokémon HOME, you need the following minimum set of games:
 
-* Pokémon Scarlet and Pokémon Violet (including their DLC, The Hidden Treasure of Area Zero: The Teal Mask and The Indigo Disk).
-* Pokémon Legends: Arceus.
-* Pokémon Sword or Shield.
-* Pokémon Brilliant Diamond or Shining Pearl.
-* Pokémon Let's Go Pikachu or Let's Go Eevee.
+| Game | Versions you need | DLC required? |
+| --- | --- | --- |
+| Scarlet & Violet | Both | Yes — *The Teal Mask* + *The Indigo Disk* |
+| Legends: Arceus | — | No |
+| Sword / Shield | Either one | No |
+| Brilliant Diamond / Shining Pearl | Either one | No |
+| Let's Go | Pikachu **or** Eevee | No |
 
 If you play Pokémon Go, you can also transfer a lot of useful 'mons from there via the Transporter. Pokémon Go has been particularly useful for me because it's the best game to catch shinies and legendaries, which turn into great trade fodder in Home.
 

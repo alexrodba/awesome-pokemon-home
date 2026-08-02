@@ -1,11 +1,13 @@
 # All about trading
 
+_Last updated: May 2025. See the [changelog](../README.md#changelog) for the full history._
+
 I am trying my best to write the holy grail of Pokémon Home trading, which is _not_ valid for trading in other games.
 
 In Pokémon Home there are four methods of trading. I only find two of them useful, so I will focus on the first two and barely cover the other two.
 
 <p align="center">
-    <img width="400px" src="../assets/img/34b63f4f-e070-4613-8fd2-63b8ba2020df.png" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/all-about-trading-01.png" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 In order of importance, for me:
@@ -19,7 +21,7 @@ In order of importance, for me:
 - [Bonus: Naming](#naming)
 
 <a name='gts'></a>
-# Global Trading System (GTS)
+## Global Trading System (GTS)
 
 This is, by order of importance, the number one feature of this app I use the most.
 
@@ -31,12 +33,12 @@ There are three ways of using the GTS:
 
 Let's cover all three!
 
-## Parking Pokémon
+### Parking Pokémon
 
-You have to always have these slots filled, otherwise you're wasting your time. At the time of writing, I have the following 'mons there:
+You have to always have these slots filled, otherwise you're wasting your time. Here are the 'mons I keep parked there:
 
 <p align="center">
-    <img width="400px" src="../assets/img/9615c210-b974-4c8a-b905-bee93c83c300.png" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/parking-01.png" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 When you "park" a Pokémon in this section, you have to specify what do you want to trade it for. Once someone meets your request, it'll trade the creatures automatically. You can take it back at any time.
@@ -66,7 +68,7 @@ I use the "parking" feature to exchange my excess shinies for legendaries.
 
 It'd be too much work to create a classification of these tiers of Pokémon, not because they're 1025, but because this can change from week to week.
 
-## Search
+### Search
 
 Searching is my least favourite option of the three I use (Wonder box, GTS, offer/search). If you use the search option, you're always going to pay a premium.
 
@@ -77,11 +79,11 @@ I only do it in very specific cases where I really need that one 'mon (a specifi
 Some other times, though, you are rewarded:
 
 <p align="center">
-    <img width="400px" src="../assets/img/0a36e97c-1ca8-45ca-828a-2661e1df5510.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/search-01.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 
-## Offer
+### Offer
 
 Select one of your 'mons and see what people will trade it for. Don't use this feature to offer shinies because the app doesn't support this, so a regular Diglett and a shiny one will yield the same results.
 
@@ -98,27 +100,27 @@ There are a few exceptions to this rule, which can be boiled down to these:
 For instance, my Kakuna from Let's Go Pikachu was traded for a Lugia, for no reason whatsoever:
 
 <p align="center">
-    <img width="400px" src="../assets/img/ba479fd0-70de-4808-b039-966e50b49dc3.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/offer-01.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 <p align="center">
-    <img width="400px" src="../assets/img/319d3221-4b0b-4a31-bbe5-e11f058826e9.png" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/offer-02.png" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 My Caterpie from Let's Go Pikachu came with an even better trade:
 
 <p align="center">
-    <img width="400px" src="../assets/img/a09f201e-6b86-46d2-85b6-45e78a4183da.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/offer-03.jpg" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 <p align="center">
-    <img width="400px" src="../assets/img/99ab896b-2c82-4251-85de-425a19a0b2a4.png" style="display: block; margin: auto;" alt="Pokémon Home">
+    <img width="400px" src="../assets/img/offer-04.png" style="display: block; margin: auto;" alt="Pokémon Home">
 </p>
 
 wtf, indeed, but I'm not gonna complain 🙏🏻
 
 <a name='wonder-box'></a>
-# Wonder box
+## Wonder box
 
 Wonder box is one hell of a fun way to get a few new 'mons for free, trading them for a few of your own.
 
@@ -131,7 +133,7 @@ I always make use of the Wonder Box. I check the 10 'mons and send them back if 
 If you receive shinies and legendaries (rare, but it does occur), this is because someone decided to send them altruistically. That doesn't mean you _have to_ do it, but you _ought to_ do it to have it happen more frequently.
 
 <a name='room-trade'></a>
-# Room trade
+## Room trade
 
 Room trade was perhaps a good idea back in the day but it's pretty unusable. The concept is simple, either join or create rooms of 20 people and trade one 'mon at a time. My experience has been pretty poor with this: I either landed in rooms with terrible 'mons being exchanged or the room was somehow cancelled and failed. I have also tried creating my own rooms and I've never gotten anyone to join, ever.
 
@@ -140,12 +142,12 @@ Users with a free Basic Plan can join existing trade rooms, while those with a P
 My guess is that this functionality makes sense if you're in a Discord channel with sufficient people to join your open call via code or QR code. Useless otherwise.
 
 <a name='friend-trade'></a>
-# Friend trade
+## Friend trade
 
 Another useless feature unless you happen to have friends in this particular app. I have not used it at all.
 
 <a name='strategy'></a>
-# Best strategy: Go-go-golden boi
+## Best strategy: Go-go-golden boi
 
 Alright, let me share my strategy to maximise my pokémon portfolio.
 
@@ -154,21 +156,21 @@ The holy grail of getting 80% of the shinies in the game is to look for the gold
 This is my current roster of Gholdengos:
 
 <p align="center">
-  <img width="300px" src="../assets/img/da854e01-1ffe-4716-ad9b-50af66aa8394.png" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/best-strategy-01.png" alt="Pokémon Home">
 </p>
 
 Gholdengo trades pretty well. It will get you most shiny forms in the game except of shiny legendaries and some extra rare ones like shiny Gorebyss and stuff like that.
 
 <p align="center">
-  <img width="300px" src="../assets/img/1d5147ee-6f6b-4b45-ad42-38b87891b9e9.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/best-strategy-02.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/c3ee582b-2b28-4efa-9490-645a58cf50eb.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/best-strategy-03.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/b42deb1c-1975-4e47-b99f-ed620d443bba.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/best-strategy-04.jpg" alt="Pokémon Home trade">
 </p>
 
 How do you get so many Gholdengos?
@@ -178,7 +180,7 @@ How do you get so many Gholdengos?
 * Some very rare pokémon will trade for Gholdengos, like Hisuian Typhlosion, Gorebyss/Huntail, Alcremies and a few more.
 
 <p align="center">
-  <img width="300px" src="../assets/img/f1ba1784-79ad-49e7-bbe9-34a49eecfad1.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/best-strategy-05.jpg" alt="Pokémon Home">
 </p>
 
 
@@ -187,35 +189,35 @@ If you can't get Gholdengos, try going one level below: Try asking for a Dialga 
 For instance, these three pokémon...
 
 <p align="center">
-  <img width="300px" src="../assets/img/0d497b2f-65a2-4206-bf79-e09046df6a51.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/best-strategy-06.jpg" alt="Pokémon Home">
 </p>
 
 ... turned into three Gholdengos:
 
 <p align="center">
-  <img width="300px" src="../assets/img/15038c51-a49c-4cb8-bf79-3c8271aeb3f4.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/best-strategy-07.jpg" alt="Pokémon Home">
 </p>
 
 <a name='naming'></a>
-# Bonus: Naming
+## Bonus: Naming
 
 Generally speaking, a pokémon with a nickname will be of less value because you're not able to rename pokémon whose original trainer (OT) isn't you.
 
 Therefore, I know you wanted to name your Galarian Moltres "Jessica", Brandon, but then you won't be able to trade it for anything of value. You're spoiling it for everyone. Same with Jeremiah, who named his Charizard "Mr Bombastic":
 
 <p align="center">
-  <img width="300px" src="../assets/img/d7d392cc-d524-435f-bd2c-a254b3591529.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-01.jpg" alt="Pokémon Home trade">
 </p>
 
 Likewise, it is immensely frustrating when you are close to completing the shiny pokédex and the only one missing has got a stupid nickname and you have to take it. It ruins your collection.
 
 <p align="center">
-  <img width="300px" src="../assets/img/3423863b-52f8-484b-a2d9-6d786c93c185.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-02.jpg" alt="Pokémon Home">
 </p>
 Appreciate your sharing love, not hate, but who really wants a shiny with this name?
 
 <p align="center">
-  <img width="300px" src="../assets/img/1bcd2ef0-d37f-4a34-aa27-4403eed722d6.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-03.jpg" alt="Pokémon Home">
 </p>
 OK - I made an exception for this one. 
 
@@ -224,11 +226,11 @@ In my case, I did accept nicknamed pokémon just to get the collection complete 
 For instance, I have made _several_ exceptions to get all of the 40592 Alcremie forms:
 
 <p align="center">
-  <img width="300px" src="../assets/img/ea563abc-ba6c-419e-a59f-c1bfa8e77d5a.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-04.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/6544a057-f3dd-4af0-b6ba-2a34368e3367.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-05.jpg" alt="Pokémon Home trade">
 </p>
 
 I know that technically you only need one instance of Alcremie for every topping, when building the shiny dex, but I actually wanted to have all of them with all of the combinations. I am _that_ hardcore.
@@ -237,59 +239,59 @@ I know that technically you only need one instance of Alcremie for every topping
 Some others raise an eyebrow so I screenshotted them for posterity but ffs people you sick fucks:
 
 <p align="center">
-  <img width="300px" src="../assets/img/6756effb-3211-4374-9f2f-22a2230d0dc6.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-06.jpg" alt="Pokémon Home">
 </p>
 
 Why:
 
 <p align="center">
-  <img width="300px" src="../assets/img/35d31f2f-7c3c-4c4d-b999-d393ea79a06a.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-07.jpg" alt="Pokémon Home">
 </p>
 
 Curry? Cronos?
 
 <p align="center">
-  <img width="300px" src="../assets/img/e6253dde-2c2f-4d31-bff1-d389b5c5fd0e.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-08.jpg" alt="Pokémon Home">
 </p>
 
 Merry Xmas to you too:
 
 <p align="center">
-  <img width="300px" src="../assets/img/5de60947-620b-4396-8976-6911259bd1ae.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-09.jpg" alt="Pokémon Home">
 </p>
 
 Sure, that's the best use for a pokémon nickname:
 
 <p align="center">
-  <img width="300px" src="../assets/img/9edb13c0-d5bd-49a9-959d-ecef2ca3efd0.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-10.jpg" alt="Pokémon Home trade">
 </p>
 
 Never take financial advice from Pokémon players:
 
 <p align="center">
-  <img width="300px" src="../assets/img/fc486350-0d85-4456-91e4-feaa53c2f671.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-11.jpg" alt="Pokémon Home trade">
 </p>
 
 Someone doesn't like Dratini:
 
 <p align="center">
-  <img width="300px" src="../assets/img/03885df9-a355-41e9-a361-70d3d6eb6262.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-12.jpg" alt="Pokémon Home trade">
 </p>
 
 VRRRROOOOOOOMMMMMM:
 <p align="center">
-  <img width="300px" src="../assets/img/d930d566-0abd-436b-923b-e25d31c25b8a.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-13.jpg" alt="Pokémon Home trade">
 </p>
 
 Politics, because why not:
 
 <p align="center">
-  <img width="300px" src="../assets/img/72ff7e3e-54da-4943-a279-7715ce5eab75.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-14.jpg" alt="Pokémon Home trade">
 </p>
 
 🫶
 <p align="center">
-  <img width="300px" src="../assets/img/1b1e80e0-3b61-4c53-8d66-cbcaea1056eb.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-15.jpg" alt="Pokémon Home trade">
 </p>
 
 
@@ -297,19 +299,19 @@ Worst of all, I also wanted to speak up against idiots who use this game to spre
 
 For instance, hate against other countries. That's German for "Turkey sucks":
 <p align="center">
-  <img width="300px" src="../assets/img/1fd3f396-f184-4a06-844c-88bd34cf2ca8.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-16.jpg" alt="Pokémon Home">
 </p>
 
 Mom! Look! A level 100 MORON!
 
 <p align="center">
-  <img width="300px" src="../assets/img/188c3c3d-4838-448c-97d8-c7ed13b260b4.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-17.jpg" alt="Pokémon Home">
 </p>
 
 WHY
 
 <p align="center">
-  <img width="300px" src="../assets/img/66d8d32a-0af8-47f3-b07c-1594ee26ea47.jpg" alt="Pokémon Home">
+  <img width="300px" src="../assets/img/naming-18.jpg" alt="Pokémon Home">
 </p>
 
 
@@ -317,7 +319,7 @@ WHY
 Worst human being ever:
 
 <p align="center">
-  <img width="300px" src="../assets/img/cdab2a2e-01de-4d64-aed6-62368fae574d.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/naming-19.jpg" alt="Pokémon Home trade">
 </p>
 
 Seriously, I hope more people report them so they can have their accounts shut down.
@@ -327,20 +329,20 @@ Seriously, I hope more people report them so they can have their accounts shut d
 
 
 <a name='crazy-trades'></a>
-# Bonus: Crazy trades
+## Bonus: Crazy trades
 
 Every few days, I get a wildly crazy trade out of nowhere, like the ones I posted above, so I have captured a few of them for your amusement. Needless to say, I also pay back when it's due when I have excess shinies and legendaries from Pokémon Go!
 
 <p align="center">
-  <img width="300px" src="../assets/img/e3ca13fe-1949-40a5-acac-9651d3a609ab.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-01.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/7fbd9f83-1691-4e38-a285-9089cca83589.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-02.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/a88c780d-cf1d-4c59-b219-cb46600fbb3c.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-03.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
@@ -348,86 +350,86 @@ Every few days, I get a wildly crazy trade out of nowhere, like the ones I poste
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/127cbbb7-753d-452b-a22b-95ffab85334f.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-04.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/25720763-96df-472e-9dd8-d74166ca2506.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-05.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/8b9a2284-5a6a-45b6-a137-ceaa6dc235cb.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-06.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/d8f4a5a7-679c-4f75-b66b-f181c909fa96.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-07.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/96f3f064-3afb-4bed-92d1-f24da0a0bcc7.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-08.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/04209f34-30a1-457b-9caa-d101192f9010.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-09.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/0ad1427a-0f19-4b50-a821-9c10c77a24e8.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-10.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/7c8803c3-f612-4d07-9c10-3097b6197231.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-11.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/79df9af4-9def-441c-8bc6-6c29cf74319b.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-12.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/1c79cd95-5842-4670-9c33-8185e640a919.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-13.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/74c899a1-11e4-4686-9ee0-ca27e79c69a5.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-14.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/b651846a-e48c-4294-a474-5ecc57fa899e.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-15.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/8c288a6d-dfa7-4082-b469-94fe2110d125.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-16.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/18927e8d-6d65-4e82-b326-a3cb9a008e93.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-17.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/5dc85151-0107-4e4a-ad4a-ce6862aa792f.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-18.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/36c81663-c6dc-4325-b8de-b21203f7a134.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-19.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/059ea696-2823-4b06-8794-a88efe3393b8.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-20.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/f56c66ff-d852-4df3-bd28-ab285c5e4f08.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-21.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/627caf14-d970-4eb4-961c-1c3ee77dda45.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-22.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/431c5674-f56d-428f-8841-80f619f71957.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-23.jpg" alt="Pokémon Home trade">
 </p>
 
 <p align="center">
-  <img width="300px" src="../assets/img/a21a37bf-7f8d-4ab2-a648-17aa38e687e1.jpg" alt="Pokémon Home trade">
+  <img width="300px" src="../assets/img/crazy-trades-24.jpg" alt="Pokémon Home trade">
 </p>
 
