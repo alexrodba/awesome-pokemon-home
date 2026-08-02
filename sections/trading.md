@@ -130,8 +130,6 @@ I always make use of the Wonder Box. I check the 10 'mons and send them back if 
 
 If you receive shinies and legendaries (rare, but it does occur), this is because someone decided to send them altruistically. That doesn't mean you _have to_ do it, but you _ought to_ do it to have it happen more frequently.
 
-How to decide which ones to keep vs. which ones to trade? I'm creating a guide in Google Sheets that you will be able to download soon.
-
 <a name='room-trade'></a>
 # Room trade
 

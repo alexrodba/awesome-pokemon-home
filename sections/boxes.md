@@ -27,7 +27,3 @@ Lastly, in box set 7, I store a few extra things I want to keep around, like Eve
 * **Box set 5:** Living shiny dex, from #1 (Bulbasaur) to #761 (Bounsweet).
 * **Box set 6:** Living shiny dex, up to #1025 (Pecharunt).
 * **Box set 7:** Want-to-keep 'mons (event, pokérus, level 100, etc).
-
-## Bonus
-
-I'm thinking of recording a series of videos showing how I've organised my boxes. Would that be interesting to you? If so, reach out to me on [Twitter](http://twitter.com/lexrodba) or [LinkedIn](http://www.linkedin.com/in/alexrodba) and let me know, so I can put my ass to work!
