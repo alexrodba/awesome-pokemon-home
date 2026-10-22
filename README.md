@@ -111,6 +111,7 @@ No. It's the only National Dex in HOME that currently **can't** be finished, bec
 - [Pokémon HOME Mobile App](https://apps.apple.com/app/pok%C3%A9mon-home/id1485352913) - iOS version.
 - [Pokémon GO](https://pokemongolive.com/) - Mobile game compatible with Pokémon HOME.
 - [List of Pokémon by National Pokédex number](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number) - Handy checklist when building a living dex.
+- [DexTeam National Pokédex](https://dexteam.app/pokedex/national/) - Sortable list of every Pokémon by National Dex number with types and base stats, plus per-game regional dexes - another handy living-dex checklist.
 - [Bulbapedia - Challenge (HOME)](https://bulbapedia.bulbagarden.net/wiki/Challenge_%28HOME%29) - Full list of HOME challenges and their requirements.
 
 ## Communities and forums
