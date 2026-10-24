@@ -4,7 +4,7 @@
   <img width="300px" src="assets/logo.jpg" alt="Awesome Pokémon Home logo">
 </p>
 
-> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started in November 23rd, 2024. Enjoy seeing it update randomly by [@lexrodba](http://twitter.com/lexrodba).
+> A curated list of resources, guides, tools, and communities for Pokémon HOME users. This is still a work in progress, started on November 23rd, 2024. Enjoy seeing it update randomly by [@lexrodba](http://twitter.com/lexrodba).
 
 ## Contents
 
@@ -20,6 +20,7 @@
   - [Pokemon Sword & Shield](sections/games.md#pokemon-sword--shield)
   - [Let's Go Pikachu/Eevee](sections/games.md#lets-go-pikachueevee)
   - [Pokemon Legends Z-A](sections/games.md#pokemon-legends-z-a)
+  - [Pokemon FireRed & LeafGreen](sections/games.md#pokemon-firered--leafgreen)
   - [Pokemon Go](sections/games.md#pokemon-go)
 - [Transfer rules & one-way traps](sections/transfers.md)
 - [Box Organization](sections/boxes.md)
@@ -55,7 +56,7 @@ New to Pokémon HOME or just my shorthand? Here are the terms that show up throu
 | **Friend Trade** | A direct trade with someone on your HOME friend list. |
 | **Trade fodder** | Common or duplicate 'mons you keep around specifically to trade away. |
 | **Brute-forcing** | Grinding lots of low-effort trades (usually Wonder Box) until dex entries and challenges fill up on their own. |
-| **Premium Plan** | HOME's paid subscription - more storage (up to 6000), a bigger Wonder Box (10 vs 3), room hosting, etc. |
+| **Premium Plan** | HOME's paid subscription - more storage (up to 9,000), a bigger Wonder Box (10 vs 3), more GTS slots (3 vs 1), room hosting, etc. |
 | **Shiny** | A rare alternate coloration of a Pokémon. |
 | **Legendary / Mythical** | Rare, powerful species; Mythicals are usually event-only. |
 | **Nature** | A trait that raises one of a 'mon's stats and lowers another. |
@@ -65,30 +66,37 @@ New to Pokémon HOME or just my shorthand? Here are the terms that show up throu
 | **Touch trade** | Briefly trading a 'mon just to register it in your dex, then trading it back - so it isn't truly yours. |
 | **Mystery Gift** | The feature for claiming distributed 'mons or items via codes or events. |
 | **Transporter** | The GO Transporter link that moves 'mons one-way from Pokémon GO into HOME. |
+| **Pokémon Bank** | The old 3DS cloud storage app. It can send 'mons one-way into HOME (Premium only) until it shuts down in February 2027. |
 | **DLC** | Paid expansion content, like Scarlet/Violet's *The Teal Mask* and *The Indigo Disk*. |
 
 ## Free vs. Premium: which plan do I need?
 
-You can get a long way on the **free (Basic) plan**, but the **Premium** subscription (a yearly purchase through the Nintendo eShop) removes the limits that hurt collectors most. These are the differences that actually matter for this guide - see the [official site](https://home.pokemon.com/) for the complete comparison.
+You can get a long way on the **free (Basic) plan**, but the **Premium** subscription (1, 3 or 12 months, bought through the Nintendo eShop or the mobile app stores) removes the limits that hurt collectors most. These are the differences that actually matter for this guide - see the [official site](https://home.pokemon.com/) for the complete comparison.
 
 | What you get | Basic (free) | Premium (paid) |
 | --- | --- | --- |
-| Pokémon you can store in HOME | 30 | 6,000 |
+| Pokémon you can store in HOME | 30 | 9,000 (6,000 before October 2026) |
 | Wonder Box deposits at once | 3 | 10 |
+| GTS deposits at once | 1 | 3 |
 | Room Trade | Join existing rooms | Join **and** host your own rooms |
+| IV Judge function | No | Yes |
+| Transfers from Pokémon Bank | No | Yes |
 
 If you're seriously chasing a living dex or trading a lot, Premium is worth it - 30 slots fills up almost immediately.
 
 ## FAQ
 
 **Do I need Premium?**
-No - you can complete dexes on the free plan. But the 30-Pokémon storage limit fills up fast, so if you're collecting seriously, [Premium](#free-vs-premium-which-plan-do-i-need) (6,000 slots) is well worth it.
+No - you can complete dexes on the free plan. But the 30-Pokémon storage limit fills up fast, so if you're collecting seriously, [Premium](#free-vs-premium-which-plan-do-i-need) (9,000 slots) is well worth it.
 
 **What's the cheapest set of games to finish the National Dex?**
 The minimum is Scarlet & Violet (with both DLCs), Legends: Arceus, Sword *or* Shield, Brilliant Diamond *or* Shining Pearl, and Let's Go Pikachu *or* Eevee. See the [full table](sections/main-pokedex.md#ready-lets-go).
 
 **Can I get Mythicals through trading?**
-Some, occasionally - the odd one turns up via GTS or Wonder Box generosity. But many Mythicals (like Magearna) can't be obtained through normal trades and require their specific event or game. Don't count on trading for them.
+Not really. HOME blocks Mythicals from the GTS and Wonder Box, so you'd need a friend willing to trade one directly. Most come from their specific event or game, or from HOME's own gifts (Celebi for completing the [FireRed/LeafGreen](sections/games.md#pokemon-firered--leafgreen) Kanto Pokédex, the Original Color Magearna for completing HOME's National Pokédex up to Eternatus). Don't count on trading for them.
+
+**Do FireRed and LeafGreen work with HOME?**
+Yes, since HOME 4.1.0 (October 2026), but only one way: 'mons you send to HOME can never go back. Your in-game Pokédex also syncs to HOME without transferring anything. See the [FireRed & LeafGreen section](sections/games.md#pokemon-firered--leafgreen).
 
 **Is Pokémon GO's dex completable?**
 No. It's the only National Dex in HOME that currently **can't** be finished, because some species haven't been released in GO yet and others are event-locked. See the [Pokémon GO section](sections/games.md#pokemon-go).
@@ -126,6 +134,8 @@ Spotted something out of date, or have a tip worth adding? Contributions are wel
 
 ## Changelog
 
+- **October 2026** — Added a Pokémon FireRed & LeafGreen section (HOME 4.1.0 connectivity, one-way transfers, Pokédex sync, Celebi gift), new one-way traps (FireRed/LeafGreen, Let's Go, Pokémon Bank), the 9,000-slot Premium storage and fuller plan comparison, a corrected Mythicals FAQ answer, refreshed stale Z-A notes, and removed a broken image from the crazy trades gallery.
+- **August 2026** — Added the glossary, FAQ, Free vs. Premium comparison, transfer rules page and contribution guide.
 - **July 2026** — Corrected the Scarlet/Violet DLC names, fixed broken cross-section links and README anchors, deduplicated the table of contents, localized all images into `assets/`, and fixed assorted typos.
 - **April 2026** — Added Pokémon Legends: Z-A section with HOME 4.0.0 compatibility notes, transfer caveats, Mystery Gifts, Champions promotion, and Mega Evolution Pokédex details.
 - **January 2026** — Updated game-specific Pokédex guides and main Pokédex notes.

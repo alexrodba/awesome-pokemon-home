@@ -1,6 +1,6 @@
 # How to complete the games-specific Pokédex
 
-_Last updated: April 2026. See the [changelog](../README.md#changelog) for the full history._
+_Last updated: October 2026. See the [changelog](../README.md#changelog) for the full history._
 
 So you've completed every dex in every game you own, and you feel like you've accomplished everything... but not! Pokémon Home has its own versions of the national Pokédex.
 
@@ -29,7 +29,8 @@ Here's the quick version before the war stories below:
 | Brilliant Diamond & Shining Pearl | Hardest | Almost none | Trade-evolutions (e.g. Gengar); shares 'mons with Legends: Arceus |
 | Sword & Shield | Medium (lots of 'mons) | Active | Galarian Slowbro/Slowking (Galarica items) |
 | Let's Go Pikachu/Eevee | Medium | None found in-game | Re-registering Kanto starter stages; slow spawns (Clefable) |
-| Legends Z-A | New, limited pool | Expected lively at launch | Mega Pokédex (syncs from your save, not transfers) |
+| Legends Z-A | New, limited pool | Lively after the HOME update | Mega Pokédex (syncs from your save, not transfers) |
+| FireRed & LeafGreen | Kanto Pokédex syncs, no transfers needed | Local wireless only | One-way, whole-box transfers; HM/held-item 'mons blocked |
 | Pokémon Go | Can't be completed | N/A | Unreleased/event-locked species, Spinda |
 
 I'll tell you how I did it with each of the games.
@@ -145,7 +146,40 @@ Send a Chesnaught, Delphox, Greninja or Eternal Flower Floette that you _caught 
 
 ### Completing the Z-A National Dex
 
-This dex is brand new as of the update. The species pool is limited to whatever can show up in Z-A, so it should be a lot more contained than Paldea or Galar. Expect trading to be lively in the weeks right after the HOME update - that's your window to grab version-specific or rare species through GTS.
+This dex arrived with the 4.0.0 update. The species pool is limited to whatever can show up in Z-A, so it should be a lot more contained than Paldea or Galar. Trading was at its liveliest in the weeks right after the HOME update; it's quieter now, so GTS is still your best bet for version-specific or rare species.
+
+## Pokemon FireRed & LeafGreen
+
+The Game Boy Advance remakes of the original Kanto games came back on Nintendo Switch on February 27th, 2026 (Pokémon Day), as separate digital-only eShop purchases rather than as part of Nintendo Switch Online. HOME support followed with the version 4.1.0 update on October 7th, 2026.
+
+Like Z-A, they don't behave like the other games, so read this before you move anything.
+
+### What you can and can't do
+
+You **can**:
+
+- Transfer 'mons from FireRed/LeafGreen into HOME, and from there into Sword/Shield, Brilliant Diamond/Shining Pearl, Legends: Arceus, Scarlet/Violet or Legends: Z-A (as long as the species exists in that game).
+- Send them on to Pokémon Champions, too.
+
+You **cannot**:
+
+- Send them back. Once a 'mon leaves FireRed/LeafGreen for HOME, it can never return to either game.
+- Bring anything _into_ FireRed/LeafGreen. 'Mons from other games can't visit them at all.
+
+### How the transfer works
+
+- It only works from the **Nintendo Switch** version of HOME, not the mobile app. The FireRed/LeafGreen option shows up before you load a save file.
+- HOME syncs your in-game Pokédex first, then you pick **a whole box** to send. You can't cherry-pick individual 'mons, so set up a "send" box in-game with only the ones you want to move.
+- 'Mons holding an item, 'mons that know an HM, and Eggs won't go through. Take the items off, visit the Move Deleter in Fuchsia City, and hatch your Eggs first.
+- You can only transfer one of each "Special Pokémon" per save file.
+
+### The Pokédex sync and Celebi
+
+You don't need to transfer anything to get Pokédex credit: once HOME is connected, every species registered in your FireRed/LeafGreen Pokédex gets registered in HOME as well.
+
+Complete the Kanto Pokédex (Mew isn't needed, same as for the in-game diploma) and you'll get a Celebi through the Mystery Gift tab in the **mobile** app. It's a Level 50 Celebi in a Cherish Ball with "HOME" as its OT, matching one distributed in Japan in 2006.
+
+The official announcement says no transfer is required, but [Serebii's write-up](https://www.serebii.net/pokemonhome/giftpokemon.shtml) says the gift arrives when you deposit from a save with a completed Kanto Pokédex. If Celebi doesn't show up, send over a box with a single throwaway 'mon and check again.
 
 ## Pokemon Go
 

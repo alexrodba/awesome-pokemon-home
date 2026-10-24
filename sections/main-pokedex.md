@@ -1,12 +1,14 @@
 # How to complete the main Pokédex
 
-_Last updated: April 2026. See the [changelog](../README.md#changelog) for the full history._
+_Last updated: October 2026. See the [changelog](../README.md#changelog) for the full history._
 
 Alright, we all want to be the best like no one ever was.
 
 The first big challenge is to complete the main Pokédex. This means registering each and every species there is - 1025 Pokémon as of this guide's last update, after the release of the Pokémon Scarlet and Violet DLCs.
 
 Legends Z-A has since added its compatibility as well. It introduced no new species, but there's the Floette Eternal Flower form and three new Pokédex sections.
+
+FireRed and LeafGreen on Nintendo Switch joined in October 2026 with HOME 4.1.0. They add no new species either, but anything registered in their Pokédex counts in HOME too, no transfer needed. Moving 'mons out is one-way, though, so check the [FireRed & LeafGreen section](games.md#pokemon-firered--leafgreen) first.
 
 Let's open the Pokédex functionality of our Pokémon Home app:
 
@@ -36,6 +38,7 @@ There are a lot of ways to register new Pokémon in your National Pokédex:
 * By transfering them from Pokémon Go!
 * By trading.
 * By getting them via Mystery Gifts.
+* By syncing a Pokédex that registers in HOME without transfers (FireRed/LeafGreen).
 
 There's no better way to do it than others. Some people are natural hunters and go and catch them in the different games. Some others catch them only in Pokémon Go! Others, however, can do it exclusively via trading. The best, for me, is a combination of all of them.
 
@@ -47,7 +50,7 @@ Most people starting to complete their Pokémon Home pokédex aren't ready. I th
 
 You are ready to do this if you own a copy of every main game series and Legends Arceus and have completed their respective Pokédexes and obtained all event-exclusive 'mons. So, if you have them scattered around different savegames, just link the games to your Home account and start moving them.
 
-You are not required to pay the premium subscription to have more space (up to 6000 'mons) via Nintendo e-shop, but it is helpful. You'll see why later.
+You are not required to pay the premium subscription to have more space (up to 9,000 'mons) via the Nintendo eShop or the mobile app stores, but it is helpful. You'll see why later.
 
 In my case, I was pretty unprepared. When I was young, I had only played the first two generations, and my savegames got corrupted, so effectively speaking I had no 'mons out there from my younger years. In 2016, I reconnected with the saga with Pokémon Go, and then bought every Nintendo Switch game after that: Let's go Pikachu, Sword, Legends Arceus and Scarlet. Apparently, I missed Magearna because it is an unobtainable mythical nowadays (unless you complete the game it appears in) and I wasn't gonna do it. Instead, I touch-traded with a friend. This means, I don't have it in my living Pokédex.
 

@@ -1,6 +1,6 @@
 # All about trading
 
-_Last updated: May 2025. See the [changelog](../README.md#changelog) for the full history._
+_Last updated: October 2026. See the [changelog](../README.md#changelog) for the full history._
 
 I am trying my best to write the holy grail of Pokémon Home trading, which is _not_ valid for trading in other games.
 
@@ -27,7 +27,7 @@ This is, by order of importance, the number one feature of this app I use the mo
 
 There are three ways of using the GTS:
 
-* Park up to three Pokémon
+* Park up to three Pokémon (just one on the free plan)
 * Search for Pokémon
 * Offer Pokémon
 
@@ -74,7 +74,7 @@ Searching is my least favourite option of the three I use (Wonder box, GTS, offe
 
 It's a basic economy concept: you're looking for something you don't have, so people on the other end will assume that they can ask a higher price for it.
 
-I only do it in very specific cases where I really need that one 'mon (a specific form of Alcremie, for instance) or things that are very expensive anyways (shiny legendaries). But if you're after a Kabuto from Galar, don't use search because people will be asking for a Bloodmoon Ursaluna, Raging Bolt of Galarian Zapdos in return. Nonsense.
+I only do it in very specific cases where I really need that one 'mon (a specific form of Alcremie, for instance) or things that are very expensive anyways (shiny legendaries). But if you're after a Kabuto from Galar, don't use search because people will be asking for a Bloodmoon Ursaluna, Raging Bolt or Galarian Zapdos in return. Nonsense.
 
 Some other times, though, you are rewarded:
 
@@ -343,10 +343,6 @@ Every few days, I get a wildly crazy trade out of nowhere, like the ones I poste
 
 <p align="center">
   <img width="300px" src="../assets/img/crazy-trades-03.jpg" alt="Pokémon Home trade">
-</p>
-
-<p align="center">
-  <img width="300px" src="https://github.com/user-attachments/assets/41cac5af-a56f-4e60-8588-1393de8648da9" alt="Pokémon Home trade">
 </p>
 
 <p align="center">

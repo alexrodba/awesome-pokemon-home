@@ -1,5 +1,7 @@
 # How to organise your boxes
 
+_Last updated: October 2026. See the [changelog](../README.md#changelog) for the full history._
+
 Here's how to get a neat and tidy order in your Pokémon Home boxes.
 
 First off, it seems that it is _not_ possible to get a living dex with the free account [because it's limited to 30 pokémon](https://www.gamespot.com/articles/pokemon-home-free-vs-paid-plan-features-pokemon-sw/1100-6473172/). I haven't tested it myself because I bought the paid account right away, and I strongly recommend you to do it if you are some kind of collector. If you're reading this, chances are that you are one.
@@ -10,7 +12,7 @@ I first thought about starting in the first box, placing a Bulbasaur and then on
 
 So I decided to leave the first set of boxes empty as an inbox of sorts. This way, I have a lot of space to accommodate for new 'mons without having to suffer.
 
-Then, I started my non-shiny living dex from the box set number 2. It uses number 2 and midway through number three. There's room for a few more generations before I have to worry about finding more space.
+Then, I started my non-shiny living dex from the box set number 2. It uses number 2 and midway through number three. There's room for a few more generations before I have to worry about finding more space, especially since HOME 4.1.0 (October 2026) bumped Premium storage from 200 boxes (6,000 'mons) to 300 boxes (9,000 'mons).
 
 Precisely because of that, I didn't start my living shiny dex in box set number 4. I want to have it as a buffer to be entirely safe for decades. I use this space temporarily to store all my tradeable 'mons: a few boxes full of shinies, rare 'mons (Gholdengos and Furfrous, mostly) and the leftover legendaries, so they're all easily findable.
 
